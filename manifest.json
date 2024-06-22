@@ -1,0 +1,8 @@
+{
+    "name": "Thai Language",
+    "id": "GasticBoy.ThaiLanguage",
+    "version": "1.0.0",
+    "dependencies": [
+        "Stacklands_NewLanguageLoader"
+    ]
+}

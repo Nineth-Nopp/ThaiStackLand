@@ -1,0 +1,1875 @@
+Term	Thai
+card_animal_pen_description	สามารถเลี้ยงสัตว์ได้ 5 ตัว
+card_animal_pen_name	คอกสัตว์
+card_apple_description	สุขภาพดี ห่างไกลหมอ
+card_apple_name	แอปเปิล
+card_apple_tree_description	ต้นไม้..มีแอปเปิ้ลอยู่ด้วย
+card_apple_tree_name	ต้นแอปเปิ้ล
+card_apple_tree_status	ซัดต้นแอปเปิ้ล
+card_bear_description	อ่อนโยนแต่อันตราย
+card_bear_name	หมี
+card_berry_description	อาหารง่ายๆ ที่พบใน พุ่มเบอร์รี่
+card_berry_name	เบอร์รี่
+card_berrybush_description	พุ่มไม้ที่มีผลเบอร์รี่แสนอร่อยอยู่ในนั้น
+card_berrybush_name	พุ่มเบอร์รี่
+card_berrybush_status	เก็บเบอร์รี่
+card_bone_description	ความจริง: โครงกระดูกประกอบด้วยกระดูกหลายชิ้น
+card_bone_name	กระดูก
+card_brick_description	วัสดุก่อสร้างที่แข็งแกร่ง
+card_brick_name	อิฐ
+card_brickyard_description	เปลี่ยนหินเป็นอิฐอย่างรวดเร็ว
+card_brickyard_name	โรงอิฐ
+card_campfire_description	สามารถใช้ปรุงอาหารได้ - ดูอบอุ่นและสบาย
+card_campfire_name	แคมป์ไฟ
+card_carrot_description	ผักที่กรุบกรอบที่สุด
+card_carrot_name	แครอท
+card_catacombs_description	ลือกันว่ามีวัตถุลึกลับ
+card_catacombs_name	สุสานใต้ดิน
+card_catacombs_status	สำรวจสุสานใต้ดิน
+card_chicken_description	สันนิษฐานว่าสืบเชื้อสายมาจากไดโนเสาร์ แต่ดูไม่จริงเลย
+card_chicken_name	ไก่
+card_cooked_meat_description	มันสุกปานกลาง
+card_cooked_meat_name	เนื้อปรุงสุก
+card_corpse_description	มนุษย์ที่ตายแล้ว
+card_corpse_name	ศพ
+card_cow_description	แม่ศรีนวลลลล~~
+card_cow_name	วัว
+card_demon_description	บอสสุดท้าย
+card_demon_name	ปีศาจ
+card_dog_description	เพื่อนที่ดีที่สุดที่แท้จริงของมนุษยชาติ ทำทุกอย่างที่มนุษย์ทำได้ แต่ช้ากว่า!
+card_dog_name	สุนัข
+card_egg_description	ไม่สามารถรับประทานดิบได้: เพราะแกเลย เชื้อ Salmonella
+card_egg_name	ไข่
+card_explorer_description	สำรวจสถานที่ได้เร็วมาก แต่ช้ากว่าเล็กน้อยในงานอื่น
+card_explorer_name	นักสำรวจ
+card_farm_description	อาคารขั้นสูงสำหรับปลูกอาหาร
+card_farm_name	ฟาร์ม
+card_flint_description	ใช้ในจุดไฟ
+card_flint_name	หินเหล็กไฟ
+card_forest_description	สถานที่แปลกตาที่มีสัตว์ประหลาดอยู่ด้วย
+card_forest_name	ป่า
+card_forest_status	สำรวจป่า
+card_frittata_description	อร่อย! ลองกินมันด้วยส้อมดูสิ
+card_frittata_name	ฟริตทาทา
+card_fruit_salad_description	อาหารโบราณสุดคลาสสิก
+card_fruit_salad_name	สลัดผลไม้
+card_garden_description	อาคารเรียบง่ายสำหรับปลูกอาหาร
+card_garden_name	สวน
+card_giant_rat_description	หนูเล็กที่กลายเป็นรุ่นใหญ่
+card_giant_rat_name	หนูยักษ์
+card_goblet_description	วัตถุลึกลับ
+card_goblet_name	ถ้วยทอง
+card_goblin_description	สัตว์ประหลาดที่ดูจะท่าทางไม่ดี
+card_goblin_name	ผี
+card_gold_description	เพื่อนที่ดีที่สุดของมนุษยชาติ
+card_gold_name	เหรียญ
+card_graveyard_description	แตกต่างจากพื้นที่ทั่วไปมาก
+card_graveyard_name	สุสาน
+card_graveyard_status	สำรวจสุสาน
+card_house_description	เป็นสถานที่ที่ดีในอยู่อาศัย
+card_house_name	บ้าน
+card_iron_bar_description	วัสดุเงางามและมีคุณค่า
+card_iron_bar_name	แท่งเหล็ก
+card_iron_deposit_description	มีส่วนผสมของแร่เหล็ก
+card_iron_deposit_name	สินแร่เหล็ก
+card_iron_deposit_status	เจาะสินแร่
+card_iron_ore_description	สามารถเปลี่ยนเป็นแท่งเหล็กได้
+card_iron_ore_name	แร่เหล็ก
+card_key_description	อยากรู้ว่าทำไปเพื่ออะไร..
+card_key_name	กุญแจ
+card_kid_description	เด็กน้อย. จำเป็นต้องมีบ้านที่จะเติบโต
+card_kid_name	เด็ก
+card_lumbercamp_description	ทรัพยากรไม้ไม่จำกัด
+card_lumbercamp_name	ค่ายไม้
+card_lumbercamp_status	ค่ายตัดไม้
+card_map_description	ใช้แผนที่เพื่อเปลี่ยนชาวบ้านให้เป็นนักสำรวจ
+card_map_name	แผนที่
+card_market_name	ตลาด
+card_militia_name	ทหารอาสา
+card_milk_description	สดจากวัว
+card_milk_name	น้ำนม
+card_milkshake_description	เป็นรสเบอร์รี่
+card_milkshake_name	มิลค์เชค
+card_mountain_description	เนินเขาที่มีขอบแหลม
+card_mountain_name	ภูเขา
+card_mountain_status	สำรวจภูเขา
+card_mushroom_description	เห็ดที่กินได้
+card_mushroom_name	เห็ด
+card_old_tome_description	หนังสือที่มีไอเดียบางอย่างอยู่ในนั้น
+card_old_tome_name	หนังสือเก่า
+card_old_tome_status	กำลังศึกษาหนังสือเล่มเก่า
+card_old_village_description	ได้ข่าวว่ายังมีคนอาศัยอยู่ที่นี่..
+card_old_village_name	หมู่บ้านเก่า
+card_old_village_status	สำรวจหมู่บ้านเก่า
+card_omelette_description	ไข่เจียวหอมหวาน น่ากิน
+card_omelette_name	ไข่เจียว
+card_onion_description	จะทานดิบหรือปรุงก็ได้แล้วแต่ชอบ
+card_onion_name	หัวหอม
+card_plains_description	กลางแจ้ง
+card_plains_name	ที่ราบ
+card_plains_status	สำรวจที่ราบ
+card_plank_description	วัสดุก่อสร้างที่แข็งแกร่ง
+card_plank_name	ไม้กระดาน
+card_poop_description	มันดูเหม็น
+card_poop_name	อึ
+card_potato_description	เนื้อเนียนและเป็นแป้ง แต่ควรปรุงให้สุกก่อน
+card_potato_name	มันฝรั่ง
+card_quarry_description	ทรัพยากรหินไม่จำกัด
+card_quarry_name	เหมืองหิน
+card_quarry_status	ขุดเหมืองหิน
+card_rabbit_description	เครื่องอึนุ่มนิ่ม
+card_rabbit_name	กระต่าย
+card_rat_description	หนูยักษ์ที่ยังเป็นรุ่นเล็ก
+card_rat_name	หนู
+card_raw_meat_description	ควรปรุงก่อน
+card_raw_meat_name	เนื้อสด
+card_rock_description	มันดูแข็งแกร่งแต่ก็เจาะได้
+card_rock_name	หิน
+card_rock_status	เจาะหิน
+card_sawmill_description	เปลี่ยนไม้ให้เป็นไม้กระดานอย่างรวดเร็ว
+card_sawmill_name	โรงเลื่อย
+card_shed_description	เพิ่มขีดจำกัด์ดของคุณ 4
+card_shed_name	โรงเก็บของ
+card_skeleton_description	สัตว์ประหลาดกระดูก
+card_skeleton_name	โครงกระดูก
+card_slime_description	สไลม์เล็กๆ 3 ตัวที่รวมเป็นตัวเดียวกัน
+card_slime_name	สไลม์
+card_small_slime_description	สารเหนียวที่เต็มไปด้วยของสารพัด
+card_small_slime_name	สไลม์ตัวเล็ก
+card_soil_description	วิธีปลูกอาหารแบบง่ายๆ และช้าๆ
+card_soil_name	ดิน
+card_spear_description	แท่งไม้กับปลายแหลม
+card_spear_name	หอก
+card_stew_description	มื้ออาหารแสนอร่อย
+card_stew_name	สตูว์
+card_stick_description	เคยเป็นส่วนหนึ่งของต้นไม้
+card_stick_name	แท่งไม้
+card_stone_description	ทรัพยากรที่เรียบง่าย
+card_stone_name	หิน
+card_stove_description	ปรุงอาหารได้เร็วกว่าแคมป์ไฟ
+card_stove_name	เตา
+card_sword_description	แท่งเหล็กที่มีปลายแหลม
+card_sword_name	ดาบ
+card_swordsman_name	นักดาบ
+card_temple_description	สถานที่สักะ มันต้องสิ่งประดิษฐ์ลึกลับ
+card_temple_name	วัด
+card_travelling_cart_description	ให้ฉัน 5 เหรียญ แล้วฉันจะให้์ดคุณ!
+card_travelling_cart_name	รถเข็นเดินทาง
+card_treasure_chest_description	มันถูกล็อค
+card_treasure_chest_name	หีบสมบัติ
+card_tree_description	ทำจากไม้ท่อนและกิ่งไม้
+card_tree_name	ต้นไม้
+card_tree_status	เจาะต้นไม้
+card_villager_description	เหล่าผู้คนที่จำใจทำงานหนัก
+card_villager_name	ชาวบ้าน
+card_warehouse_description	เพิ่มขีดจำกัด์ดของคุณ 14
+card_warehouse_name	คลังสินค้า
+card_wolf_description	มันดูอันตราย
+card_wolf_name	หมาป่า
+card_wood_description	ทรัพยากรที่เรียบง่าย
+card_wood_name	ไม้
+cardtype_food	อาหาร
+cardtype_ideas	ไอเดีย
+cardtype_locations	สถานที่
+cardtype_mobs	สิ่งมีชีวิต
+cardtype_resources	ทรัพยากร
+cardtype_structures	สิ่งปลูกสร้าง
+idea_animalpen_status_0	สร้างคอกสัตว์
+idea_brick_status_0	สร้างอิฐ
+idea_brickyard_status_0	สร้างโรงอิฐ
+idea_campfire_status_0	จุดกองไฟ
+idea_carving_status_0	ตัดเป็นกิ่งไม้
+idea_chicken_status_0	ไก่กำลังขัน
+idea_coinchest_status_0	ทำหีบเหรียญ
+idea_cookedmeat_status_0	ปรุงอาหารเนื้อสัตว์
+idea_farm_status_0	สร้างฟาร์ม
+idea_frittata_status_0	ทำอาหาร Frittata
+idea_fruitsalad_status_0	ทำสลัดผลไม้
+idea_garden_status_0	สร้างสวน
+idea_growth_name	ปลูก
+idea_growth_status_0	ปลูกเบอร์รี่บุช
+idea_growth_status_1	ปลูกต้นแอปเปิ้ล
+idea_growth_status_2	แครอทกำลังเติบโต
+idea_growth_status_3	หัวหอมกำลังเติบโต
+idea_growth_status_4	มันฝรั่งกำลังเติบโต
+idea_growth_status_5	เห็ดกำลังเติบโต
+idea_house_status_0	สร้างบ้าน
+idea_ironweapons_status_0	สร้างดาบ
+idea_ironweapons_status_1	ฝึกนักดาบ
+idea_lumbercamp_status_0	สร้างค่ายไม้
+idea_market_status_0	สร้างตลาด
+idea_milkshake_status_0	ทำมิลค์เชค
+idea_mine_status_0	สร้างเหมือง
+idea_offspring_name	ลูกหลาน
+idea_offspring_status_0	สร้างลูกหลาน
+idea_offspring_status_1	สร้างลูกสุนัข
+idea_omelette_status_0	ทำไข่เจียว
+idea_planks_status_0	สร้างไม้กระดาน
+idea_quarry_status_0	สร้างเหมืองหิน
+idea_sawmill_status_0	สร้างโรงเลื่อย
+idea_shed_status_0	สร้างโรงเก็บของ
+idea_smelting_status_0	สร้างโรงถลุง
+idea_smelting_status_1	ถลุงเหล็ก
+idea_stew_status_0	ปรุงสตูว์
+idea_stove_status_0	สร้างเตา
+idea_temple_status_0	สร้างวัด
+idea_warehouse_status_0	สร้างโกดัง
+idea_woodenweapons_status_0	สร้างหอก
+idea_woodenweapons_status_1	ฝึกอบรมกองทหารอาสา
+idea_woodenweapons_status_2	ฝึกอบรมนักสำรวจ
+ideagroup_basic	ขั้นพื้นฐาน
+ideagroup_building	อาคาร
+ideagroup_cooking	ทำอาหาร
+ideagroup_military	ทหาร
+ideagroup_resources	ทรัพยากร
+label_an_idea	ไอเดีย
+label_back	กลับ
+label_back_to_menu	กลับไปที่เมนู
+label_buy_packs_to_find_idea	ซื้อแพ็คเพื่อค้นหาไอเดียนี้
+label_cant_be_sold	ขายไม่ได้
+label_card_not_found	ยังไม่พบบัตร
+label_cardopedia	คาร์ดโอพีเดีย
+label_cards_found	[found]/[total]พบแล้ว
+label_cards_infobox	จำนวน์ดสูงสุดในปัจจุบันของคุณคือ [max_card_count] คุณมี [card_count] [cardicon] (ไม่รวมเหรียญ)
+label_cards_infobox_warning	คุณมี [cardicon] มากเกินไป โปรดขายให้น้อยกว่าข้อจำกัด
+label_clear_save	ล้างบันทึก
+label_clear_save_confirm	คุณแน่ใจหรือไม่ว่าต้องล้างบันทึกของคุณ
+label_coin_infobox_text	จำนวนเหรียญทั้งหมดที่คุณมี
+label_coin_infobox_title	เหรียญ
+label_combat_speed	ความเร็วในการโจมตี:
+label_complete_more_quests	<one>ทำภารกิจให้สำเร็จอีก 1 ภารกิจเพื่อปลดล็อคแพ็คใหม่!<other>ทำภารกิจให้สำเร็จอีก [remaining] เพื่อปลดล็อคแพ็คใหม่!
+label_complete_more_quests_for_pack	<one>ทำภารกิจให้สำเร็จอีก 1 ภารกิจเพื่อปลดล็อคแพ็กนี้!<other>ทำภารกิจอีก [remaining] ให้สำเร็จเพื่อปลดล็อคแพ็กนี้!
+label_completed_main_quest	คุณทำภารกิจหลักสำเร็จแล้ว!
+label_continue	ดำเนินต่อ
+label_continue_run	ต่อไป (จันทราที่ [moon])
+label_credits	เครดิต
+label_damage	ความเสียหาย:
+label_drag_coins_to_buy_pack	ลาก [cost][goldicon] ที่นี่เพื่อซื้อแพ็กนี้
+label_drop_to_sell	วางขายในราคา [value]
+label_eating	กิน..
+label_end_of_moon	จบคืนที่ [moon]
+label_everyone_fed	ทุกคนได้รับอาหารแล้ว!
+label_everyone_starved	ทุกคนอดอยากแทบตาย!
+label_feed_villagers	เลี้ยงชาวบ้าน
+label_foil	(วิบวับ)
+label_fullscreen	เต็มจอ: [on_off]
+label_game_options	ตัวเลือกเกม
+label_game_over	จบเกม
+label_goblet_brought_to_temple	แก้วน้ำถูกนำมาที่พระวิหาร
+label_hit_chance	โอกาสตีโดน:
+label_idea_fullname	ไอเดีย: [name]
+label_ideas	ไอเดีย
+label_ideas_found	[found]/[total] ไอเดียที่พบแล้ว
+label_keep_playing	เล่นต่อไปเพื่อรวบรวมการ์ดทุกใบ!
+label_languages_title	ภาษา
+label_may_contain	อาจมี:
+label_moon_length	ความยาวของวัน
+label_moon_length_long	ยาว
+label_moon_length_normal	ปกติ
+label_moon_length_short	สั้น
+label_moon_length_tooltip	ความยาวของของวัน - ยิ่งยาวยิ่งง่าย
+label_new	ใหม่!
+label_new_cards_found	<one>พบการ์ดใหม่ 1 ใบ<other> [count] ใบได้ถูกพบ
+label_new_pack_unlocked	ปลดล็อคแพ็คใหม่แล้ว!
+label_new_run_confirm	คุณแน่ใจหรือไม่ว่าต้องเริ่มใหม่ คุณจะสูญเสียความคืบหน้าปัจจุบันของคุณ!
+label_nice	ดี!
+label_no	ไม่
+label_off	ปิด
+label_okay	ตกลง
+label_on	บน
+label_options	ตัวเลือก
+label_pack_now_available	[pack] แพ็คมีจำหน่ายแล้ว!
+label_paused	หยุดชั่วคราว
+label_peaceful_mode	โหมดสันติ
+label_peaceful_mode_tooltip	ไม่มีศัตรูในโหมดสันติ
+label_quest	ภารกิจ
+label_quest_completed	ภารกิจเสร็จสิ้น!
+label_quest_not_possible_in_peaceful	ไม่สามารถทำได้ในโหมดสันติ
+label_quests	เควส
+label_quests_completed	<one> 1 ภารกิจเสร็จสมบูรณ์<other>[count] ภารกิจเสร็จสมบูรณ์
+label_quit	ล้มเลิก
+label_resolution	ความละเอียด:[width]x[height]
+label_resolutions_title	มติ
+label_seconds_format	[seconds]วิ
+label_seconds_left_format	เหลืออีก [seconds]วิ
+label_select_language	เลือกภาษา
+label_sell	ขาย
+label_sell_cards_to_continue	ขายการ์ดเพื่อดำเนินต่อ
+label_sell_x_cards	<one>ขาย 1 ใบ<other>ขาย [count] ใบ
+label_sellbox_title	ขาย
+label_sfx	เสียงเอฟเฟค
+label_stack_of_cards	สแต็คการ์ด
+label_start_new_moon	เริ่มวันใหม่
+label_start_new_run	เริ่มใหม่
+label_start_of_moon	เริ่มจันทราที่ [moon]
+label_start_run	เริ่ม
+label_start_the_ritual	เริ่มพิธีกรรม
+label_strange_portal_appeared	ประตูมิติประหลาดก็ปรากฏขึ้น
+label_time_to_eat	ถึงเวลากิน
+label_timetext	จันทราที่ [moon]
+label_timetext_peaceful	จันทราที่ [moon] - สงบ
+label_toggle_panel_title	สลับแผง
+label_too_many_cards	<one>คุณมีไพ่ 1 ใบมากเกินไป!<other>คุณมีไพ่ [count], การ์ดมากเกินไป!
+label_travelling_cart_appeared	รถเข็นเดินทางปรากฏขึ้น
+label_uh_oh	โอ้ แย่ละ
+label_undiscovered_cards	<one>การ์ดที่ยังไม่ได้ค้นพบ 1 ใบ<other>[จำนวน]การ์ดที่ยังไม่ได้ค้นพบ
+label_well_done	ทำได้ดี!
+label_yes	ใช่
+label_you_killed_the_demon	คุณฆ่าปีศาจ!
+label_you_reached_moon	คุณถึงจันทราที่ [moon]
+pack_a_new_world_text	โลกใหม่
+pack_cuisine_text	อาหารที่อยากรู้อยากเห็น
+pack_explorers_text	นักสำรวจ
+pack_farming_text	เก็บเกี่ยวและหว่าน
+pack_humble_beginnings_text	จุดเริ่มต้นที่ต่ำต้อย
+pack_logic_reason_text	ตรรกะและเหตุผล
+pack_order_structure_text	ลำดับและโครงสร้าง
+pack_seeking_wisdom_text	แสวงหาปัญญา
+quest_3_villagers_text	รับชาวบ้าน 3 คน
+quest_bring_goblet_text	นำถ้วยไปที่พระวิหาร
+quest_build_3_houses_text	มีบ้าน 3 หลัง
+quest_build_farm_text	สร้างฟาร์ม
+quest_build_house_text	สร้างบ้าน
+quest_build_temple_text	สร้างวัด
+quest_buy_booster_text	ซื้อแพ็ก Humble Beginnings
+quest_buy_from_travelling_cart_text	ซื้อของจากรถเข็นเดินทาง
+quest_carve_stick_text	ทำแท่งไม้
+quest_cook_frittata_text	ปรุง Frittata
+quest_cook_meat_text	ปรุงเนื้อดิบ
+quest_cook_omelette_text	ทำออมเล็ต
+quest_create_brickyard_text	สร้างโรงอิฐ
+quest_create_lumbercamp_text	สร้างค่ายไม้
+quest_create_offspring_text	สร้างลูกหลาน
+quest_create_quarry_text	สร้างเหมืองหิน
+quest_create_shed_text	สร้างโรงเก็บของ
+quest_explore_forest_text	สำรวจป่า
+quest_explore_mountain_text	สำรวจภูเขา
+quest_find_catacombs_text	ค้นหาสุสานใต้ดิน
+quest_find_goblet_text	ค้นหาสิ่งประดิษฐ์ลึกลับ
+quest_find_graveyard_text	ค้นหาสุสาน
+quest_get_a_dog_text	รับสุนัข
+quest_get_iron_bar_text	รับแท่งเหล็ก
+quest_have_gold_text	มี [count] เหรียญ
+quest_have_10_ideas_text	มี 10 ไอเดีย
+quest_have_10_stone_text	มีหิน 10 ก้อน
+quest_have_10_wood_text	มี 10 ไม้
+quest_have_food_text	มี [count] อาหาร
+quest_have_5_ideas_text	มี 5 ไอเดีย
+quest_kill_a_rat_text	ฆ่าหนู
+quest_kill_a_skeleton_text	ฆ่าโครงกระดูก
+quest_kill_demon_text	ฆ่าปีศาจ
+quest_open_starter_pack_text	เปิดบูสเตอร์แพ็ค
+quest_open_treasure_chest_text	เปิดหีบสมบัติ
+quest_pick_berrybush_text	ลากชาวบ้านไปบน Berry Bush
+quest_reach_month_text	ถึงจันทราที่ [count]
+quest_second_villager_text	รับชาวบ้านคนที่สอง
+quest_sell_at_market_text	ขายบัตรที่ตลาด
+quest_sell_card_text	ขายบัตร
+quest_start_campfire_text	จุดแคมป์ไฟ
+quest_train_explorer_text	ฝึกนักสำรวจ
+quest_train_militia_text	ฝึกทหารอาสา
+quest_unlock_all_packs_text	ปลดล็อคแพ็คทั้งหมด
+new_creating_graveyard	สร้างสุสาน
+new_selling_card	ขาย [card]
+new_portal_shaking	พอร์ทัลกำลังสั่น
+new_growing_up	โตขึ้น
+card_aquarium_description	สามารถเก็บปลาได้ 5 ตัว
+card_aquarium_name	พิพิธภัณฑ์สัตว์น้ำ
+card_banana_description	ผลไม้สีเหลืองที่ทุกคนชื่นชอบ
+card_banana_name	กล้วย
+card_banana_tree_description	ทำจากกล้วย
+card_banana_tree_name	ต้นกล้วย
+card_banana_tree_status	ทุบต้นกล้วย
+card_boat_status	ล่องเรือออก
+card_bottle_of_rum_description	ระวัง: ทำให้ชาวบ้านเมา!
+card_bottle_of_rum_name	เหล้ารัมขวดหนึ่ง
+card_bottle_of_water_description	ขวดใสที่เต็มไปด้วยของเหลวใส
+card_bottle_of_water_name	ขวดน้ำ
+card_captain_description	ผู้เชี่ยวชาญด้านเดินทางทางเรือ แล่นเรือเร็วขึ้น
+card_captain_name	กัปตัน
+card_cathedral_description	สถานที่สักะที่สำคัญ มันต้องของที่ระลึก
+card_cathedral_name	อาสนวิหาร
+card_cave_description	โจรสลัดเคยเก็บแผนที่สมบัติไว้ในนั้น..
+card_cave_name	ถ้ำ
+card_cave_status	สำรวจถ้ำ
+card_ceviche_description	ปลาเปรี้ยว ดูไม่น่ากินซะเลย
+card_ceviche_name	เซวิเช่
+card_charcoal_description	ทำหน้าที่เป็นยาแก้พิษงู
+card_charcoal_name	ถ่าน
+card_chili_pepper_description	ดีและเผ็ด
+card_chili_pepper_name	พริก
+card_coconut_description	นี่มันผลไม้นะไม่ใช่ถั่ว!
+card_coconut_name	มะพร้าว
+card_coconut_piece_description	เขตร้อน!
+card_coconut_piece_name	ชิ้นมะพร้าว
+card_coconut_tree_description	ทำจากมะพร้าว
+card_coconut_tree_name	ต้นมะพร้าว
+card_coconut_tree_status	ตัดต้นมะพร้าว
+card_cod_name	ปลาค็อด
+card_coin_chest_description	หีบที่สามารถเก็บเหรียญได้
+card_coin_chest_name	หีบเหรียญ
+card_composter_description	เปลี่ยนอาหาร 5 ชนิดให้เป็นดิน
+card_composter_name	นักแต่งเพลง
+card_cooked_crab_meat_description	โอ้ แฟนซี
+card_cooked_crab_meat_name	ปูสุก
+card_cooked_fish_description	หอมๆ ย่างสุกๆ
+card_cooked_fish_name	ปลาย่าง
+card_cotton_description	ขนจากธรรมชาติ
+card_cotton_name	ฝ้าย
+card_cotton_plant_description	สามารถเก็บเกี่ยวฝ้ายได้
+card_cotton_plant_name	โรงงานฝ้าย
+card_cotton_plant_status	เก็บเกี่ยวต้นฝ้าย
+card_crab_description	ทำไมทุกอย่างถึงพัฒนาเป็นปู?
+card_crab_name	ปู
+card_demon_lord_description	บอสคนสุดท้าย แบบ สุดท้าย
+card_demon_lord_name	จอมมาร
+card_distillery_description	ใช้สำหรับทำเหล้า
+card_distillery_name	โรงกลั่นสุรา
+card_driftwood_description	กองไม้ที่ถูกพัดเกยฝั่ง
+card_driftwood_name	ไม้ระแนง
+card_driftwood_status	ควานหาในกองไม้ระแนง
+card_eel_description	งูทะเลไฟฟ้า
+card_eel_name	ปลาไหล
+card_empty_bottle_description	ทำจากแก้ว เติมได้!
+card_empty_bottle_name	ขวดเปล่า
+card_fabric_description	ไฟเบอร์. ด้วยกัน. แข็งแกร่ง.
+card_fabric_name	ผ้า
+card_fish_trap_description	ต้องอาหารประเภทหนึ่งเป็นเหยื่อ
+card_fish_trap_name	กับดักปลา
+card_fish_trap_status	จับปลา
+card_fisher_description	ผู้เชี่ยวชาญด้านตกปลา ปลาหวาดกลัวเขา
+card_fisher_name	นักตกปลลา
+card_fishing_rod_description	มอบให้ชาวบ้านเพื่อเปลี่ยนพวกเขาให้เป็นชาวประมง
+card_fishing_rod_name	เบ็ดตกปลา
+card_fishing_spot_description	แหล่งน้ำที่เต็มไปด้วยปลา
+card_fishing_spot_name	จุดตกปลา
+card_fishing_spot_status	ตกปลา
+card_friendly_pirate_description	มันได้เข้าร่วมข้างคุณแล้ว
+card_friendly_pirate_name	โจรสลัดที่เป็นมิตร
+card_frigate_description	สามารถใส่การ์ดได้ 25 ใบ ต้องชาวบ้านเพื่อเริ่มเดินเรือ ไม่สามารถบรรทุกอาคารได้
+card_frigate_name	เรือรบ
+card_glass_description	ทรัพยากรที่โปร่งใส
+card_glass_name	กระจก
+card_gold_bar_description	เป็นวัสดุที่เงางามและมีคุณค่ามาก
+card_gold_bar_name	ทองคำแท่ง
+card_gold_deposit_description	มันมีแร่ทองคำ
+card_gold_deposit_name	สินแร่ทองคำ
+card_gold_deposit_status	ขุดเงินสินแร่ทองคำ
+card_gold_mine_description	ทรัพยากรแร่ทองคำไม่จำกัด
+card_gold_mine_name	เหมืองทองคำ
+card_gold_mine_status	ทำงานที่เหมืองทอง
+card_gold_ore_description	สามารถเปลี่ยนเป็นทองคำแท่งได้
+card_gold_ore_name	แร่ทองคำ
+card_goop_description	เปื้อน ตะกอน ขยะ: มันคืออาหารบูด
+card_goop_name	กู๊ป
+card_greenhouse_description	อาคารไฮเทคสำหรับปลูกอาหาร ปลูกพืชทดแทนโดยอัตโนมัติ
+card_greenhouse_name	เรือนกระจก
+card_island_relic_description	นำไปไว้ที่มหาวิหาร
+card_island_relic_name	ของระลึกที่เกาะ
+card_jungle_description	ป่าที่ขึ้นชื่อเรื่องหนังสือ
+card_jungle_name	ป่า
+card_jungle_status	สำรวจป่า
+card_kraken_description	โมโหเพราะคุณเอาของระลึกไป
+card_kraken_name	คราเคน
+card_lime_description	กลมๆและเปรี้ยว
+card_lime_name	มะนาว
+card_mackerel_name	ปลาแมคเคอเรล
+card_mess_hall_description	ชาวบ้านจะให้ความสำคัญกับรับประทานอาหารที่อยู่ด้านบนเมสฮอลล์
+card_mess_hall_name	เมสฮอลล์
+card_message_in_a_bottle_description	ดูเหมือนว่าจะมีไอเดียอยู่ในนั้น
+card_message_in_a_bottle_name	ข้อความในขวด
+card_message_in_a_bottle_status	เปิดขวด
+card_mine_description	ทรัพยากรแร่เหล็กไม่จำกัด
+card_mine_name	เหมืองเหล็ก
+card_mine_status	ทำงานที่เหมืองเหล็ก
+card_momma_crab_description	บางทีคุณไม่ควรฆ่าปูเยอะไปนะ?
+card_momma_crab_name	แม่ปู
+card_monkey_description	อยากได้กล้วยจริงๆ
+card_monkey_name	ลิง
+card_parrot_description	พูดเหมือนคน บินได้เหมือนนก ทำให้โจรสลัดมีความสุข
+card_parrot_name	นกแก้ว
+card_pirate_boat_description	เรือที่เต็มไปด้วยโจรสลัด
+card_pirate_boat_name	เรือโจรสลัด
+card_pirate_boat_status	เราจะปล่อยให้คุณอยู่คนเดียวสำหรับ [count] เหรียญ..
+card_pirate_description	กะลาสีเรือผู้โกรธเกรี้ยว
+card_pirate_name	โจรสลัด
+card_raw_crab_meat_description	ควรปรุงให้สุกก่อนบริโภค
+card_raw_crab_meat_name	เนื้อปูดิบ
+card_raw_fish_description	มันลื่น.
+card_raw_fish_name	ปลาดิบ
+card_rope_description	ยาวและมีเส้นใย
+card_rope_name	เชือก
+card_rowboat_description	สามารถพกพา์ดได้ 1 ใบ ต้องชาวบ้านเพื่อเริ่มเดินเรือ ไม่สามารถบรรทุกอาคารได้
+card_rowboat_name	เรือพาย
+card_sacred_chest_description	จำเป็นต้องมีกุญแจศักดิ์สิทธิ์จึงจะสามารถเปิดได้
+card_sacred_chest_name	หีบศักดิ์สิทธิ์
+card_sacred_key_description	หลอมด้วยแก้วและทอง ใช้สำหรับเปิดหีบศักดิ์สิทธิ์
+card_sacred_key_name	กุญแจศักดิ์สิทธิ์
+card_sail_description	ใช้สำหรับทำเรือ
+card_sail_name	อู่เรือ
+card_sand_description	ส่วนผสมหลักเพื่อชายหาดที่สวยงาม
+card_sand_name	ทราย
+card_sand_quarry_description	ทรัพยากรทรายไม่จำกัด
+card_sand_quarry_name	เหมืองทราย
+card_sand_quarry_status	ทำเหมืองแร่ที่เหมืองทราย
+card_sandstone_description	ทางเลือกแทนหิน สามารถใช้กับอะไรก็ได้ที่หินจำเป็น
+card_sandstone_name	หินทราย
+card_seafood_stew_description	สตูว์สูตรชาวเกาะ อร่อย
+card_seafood_stew_name	สตูว์ซีฟู้ด
+card_seagull_description	นกขี้โมโห
+card_seagull_name	นกนางนวล
+card_seaweed_description	สลัดทะเล
+card_seaweed_name	สาหร่ายทะเล
+card_shark_description	ปลาตัวใหญ่ขี้วีนชนิดหนึ่ง
+card_shark_name	ฉลาม
+card_sheep_description	ปุกปุย!
+card_sheep_name	แกะ
+card_shell_chest_description	หีบที่สามารถเก็บเปลือกหอยได้
+card_shell_chest_name	เปลือกหอย
+card_shell_description	สกุลเงินหลักบนเกาะ
+card_shell_name	เปลือก
+card_sloop_description	สามารถใส่์ดได้ 10 ใบ ต้องชาวบ้านเพื่อเริ่มเดินเรือ ไม่สามารถบรรทุกอาคารได้
+card_sloop_name	เรือใบเสากระโดงเดียว
+card_smelter_description	แปรรูปวัสดุต่างๆ โดยถลุงมัน
+card_smelter_name	โรงถลุง
+card_smelter_status	ถลุง
+card_snake_description	สิ่งมีชีวิตเลื้อยและมีพิษ
+card_snake_name	งู
+card_sugar_cane_description	มันคือหญ้ารสลูกกวาด
+card_sugar_cane_name	อ้อย
+card_sugar_cane_status	เก็บเกี่ยวอ้อย
+card_sugar_description	หวานมาก!
+card_sugar_name	น้ำตาลอ้อย
+card_sushi_description	ของกินเลี้ยงแสนอร่อย
+card_sushi_name	ซูชิ
+card_tamago_sushi_description	ซูชิรสไข่
+card_tamago_sushi_name	ทาโกะซูชิ
+card_tentacle_description	กริ๊ง กริ๊ง กริ๊ง
+card_tentacle_name	หนวด
+card_tiger_description	เป็นแมวที่แข็งแกร่งมาก
+card_tiger_name	เสือ
+card_trained_monkey_description	สามารถช่วยคุณทำงานบ้านได้ กลับกลายเป็นลิงธรรมดาหลังสิ้นจันทรา
+card_trained_monkey_name	ลิงฝึกหัด
+card_treasure_map_description	เครื่องหมาย X  จำเป็นต้องค้นหากับชาวบ้าน
+card_treasure_map_name	แผนที่สมบัติ
+card_treasure_map_status	กำลังมองหาสมบัติ
+card_tuna_name	ทูน่า
+card_wool_description	ทรัพยากรที่อ่อนนุ่ม
+card_wool_name	ขนสัตว์
+cardtype_fish	ปลา
+cardtype_rumors	ข่าวลือ
+empty	
+idea_aquarium_status_0	สร้างอาคารพิพิธภัณฑ์สัตว์น้ำ
+idea_befriending_pirate_status	เป็นเพื่อนกับโจรสลัด
+idea_bottle_status_0	ทำขวด
+idea_cathedral_status_0	สร้างอาสนวิหาร
+idea_ceviche_status	ทำเซวิเช่
+idea_charcoal_status	ทำถ่าน
+idea_charcoal_status_0	ทำถ่าน
+idea_compass_status	ทำเข็มทิศ
+idea_composter_status	อาคารปุ๋ยหมัก
+idea_composting_status	ทำปุ๋ยหมัก
+idea_cooked_crab_meat_status_0	ทำเนื้อปู
+idea_cooked_fish_status_0	ปลาย่าง
+idea_cracking_coconut_status	ทุบมะพร้าว
+idea_distillery_status	อาคารโรงกลั่นสุรา
+idea_eating_charcoal	กำจัดพิษ
+idea_fabric_status	ทอผ้า
+idea_filling_bottle_of_water	บรรจุขวด
+idea_fish_trap_status	สร้างกับดักปลา
+idea_fishing_rod_status	ทำเบ็ดตกปลา
+idea_frigate_status0	สร้างเรือฟริเกต
+idea_greenhouse_status_0	สร้างเรือนกระจก
+idea_growth_name_status_10	ปลูกพริก
+idea_growth_name_status_9	มะนาวที่กำลังเติบโต
+idea_growth_status_6	ปลูกต้นกล้วย
+idea_growth_status_7	ปลูกต้นมะพร้าว
+idea_growth_status_8	ปลูกต้นฝ้าย
+idea_mess_hall_status	อาคารเมสฮอลล์
+idea_rope_status	ทำเชือก
+idea_rowboat_status0	สร้างเรือพาย
+idea_rum_status	ทำเหล้ารัม
+idea_sacred_key_status0	หลอมกุญแจศักดิ์สิทธิ์
+idea_sail_status0	แล่นเรือ
+idea_sand_quarry_status	สร้างเหมืองทราย
+idea_sandstone_status	สร้างหินทราย
+idea_seafood_stew_status_0	ทำสตูว์ทะเล
+idea_shell_chest_status_0	ทำหีบเปลือกหอย
+idea_sloop_status0	สร้างสลุบ
+idea_smelting_glass_status	เป่าแก้ว
+idea_smelting_status_2	ถลุงทอง
+idea_smelting_status_3	ทำเหรียญ
+idea_sushi_status	ทำซูชิ
+idea_tamago_sushi_status	ทำทามาโกะซูชิ
+idea_training_captain_status	ฝึกกัปตัน
+idea_training_fisher_status	ฝึกนักตกปลา
+idea_training_monkey_status	ฝึกลิง
+ideagroup_fishing	ตกปลา
+ideagroup_important	สำคัญ
+ideagroup_island	เกาะ
+ideagroup_sailing	กองทัพเรือ
+label_a_rumor	ข่าวลือ
+label_awakened_something	คุณปลุกอะไรบางอย่าง..
+label_awakened_the_kraken	มันคือคราเคน!
+label_card_cap	จำกัดการ์ด
+label_complete_more_island_quests_for_pack	<one>ทำภารกิจเกาะให้สำเร็จอีก 1 ครั้งเพื่อปลดล็อคแพ็กนี้!<other>ทำภารกิจเกาะให้สำเร็จอีก [remaining] เพื่อปลดล็อคแพ็กนี้!
+label_everyone_on_island_dead	ทุกคนบนเกาะก็เสียชีวิต
+label_everyone_on_island_dead_text	การ์ดของคุณจะอยู่ที่นี่เมื่อคุณกลับมา
+label_island_intro_1	ยินดีต้อนรับสู่เกาะ
+label_island_intro_2	ขณะที่อยู่ที่เกาะ คุณจะไม่ต้องดูแลแผ่นดินใหญ่
+label_island_intro_3	คุณสามารถกลับไปยังแผ่นดินใหญ่ได้ตลอดเวลาโดยใช้เรือพาย
+label_island_intro_4	เรือพายสามารถบรรทุกการ์ดได้เพียงใบเดียว - เรืออื่นๆ อนุญาตให้คุณนำการ์ดไปมาได้มากขึ้น
+label_island_intro_5	หากชาวบ้านของคุณตายทั้งหมด คุณจะถูกส่งกลับไปยังแผ่นดินใหญ่
+label_island_intro_6	ขอให้โชคดี!
+label_island_intro_pack_text	คุณมีแพ็คสำหรับเอาชนะปีศาจ
+label_island_intro_pack_title	ดี!
+label_island_intro_title	เกาะ!
+label_join_our_discord	เข้าร่วม Discord ของเรา
+label_main_quests	ภารกิจหลัก
+label_momma_crab_appeared_text	ดูเหมือนเธอจะโกรธ..
+label_momma_crab_appeared_title	แม่ปูปรากฏตัวแล้ว
+label_no_ideas_yet	คุณยังไม่พบไอเดียใด ๆ
+label_one_villager_needs_to_stay	ชาวบ้านอย่างน้อยหนึ่งคนต้องอยู่บนแผ่นดินใหญ่
+label_pirate_boat_appeared	เรือโจรสลัดก็ปรากฏตัวขึ้น
+label_quests_complete_more_to_see	ทำภารกิจเพิ่มเติมให้เสร็จสิ้นเพื่อดูภารกิจถัดไป
+label_return_to_mainland	กลับสู่แผ่นดินใหญ่
+label_rumor_full	ข่าวลือ: [name]
+label_sailing_off_title	แล่นเรือออก
+label_save_game	<b>บันทึก [save_index]</b> - [percentage] เสร็จสมบูรณ์ - เล่นล่าสุด [date] วัน
+label_save_games	บันทึกเกม
+label_select_save	เลือกบันทึก
+label_side_quests	ภารกิจรอง
+label_start_new_save	<b>บันทึก [save_index]</b> - เริ่มบันทึกใหม่
+label_status_effect	สถานะ: [status]
+label_time	เวลา
+label_you_killed_the_demon_lord	คุณฆ่าจอมมารแล้ว
+pack_island_advanced_text	หมู่เกาะขั้นสูง
+pack_island_cooking_text	ย่างและต้มเบียร์
+pack_island_ideas1_text	เกาะแห่งความคิด
+pack_island_ideas2_text	ข้อมูลเชิงลึกของเกาะ
+pack_island_intro_text	เกาะ?
+pack_island_locations_text	นักสำรวจวงล้อม
+pack_island1_text	เกาะสดใหม่
+pack_island2_text	บนฝั่ง
+quest_befriend_a_pirate_text	ผูกมิตรกับโจรสลัด
+quest_bribe_pirate_boat_text	ติดสินบนเรือโจรสลัด
+quest_build_cathedral_text	สร้างอาสนวิหารบนแผ่นดินใหญ่
+quest_build_composter_text	สร้างนักแต่งเพลง
+quest_build_fish_trap_text	สร้างกับดักปลา
+quest_build_greenhouse_text	สร้างเรือนกระจก
+quest_build_mess_hall_text	สร้างห้องโถงระเบียบ
+quest_build_rowboat_text	สร้างเรือพาย
+quest_build_sloop_text	สร้างสลุบ
+quest_catch_a_fish_text	จับปลา
+quest_cook_crab_meat_text	ปรุงเนื้อปู
+quest_crack_coconut_text	แตกมะพร้าว
+quest_cure_poison_text	รักษาชาวบ้านที่ถูกพิษ
+quest_drunk_villager_text	เลือกชาวบ้านเมา
+quest_find_treasure_map_text	ค้นหาแผนที่ขุมทรัพย์
+quest_find_treasure_text	ค้นหาสมบัติ
+quest_forge_sacred_key_text	ปลอมกุญแจศักดิ์สิทธิ์
+quest_get_2_bananas_text	รับกล้วย 2 ลูก
+quest_have_shells_text	มี [count] เปลือกหอย
+quest_island_relic_to_cathedral_text	นำของที่ระลึกของเกาะไปที่อาสนวิหาร
+quest_kill_demon_lord_text	สังหารจอมมาร
+quest_kill_kraken_text	ฆ่าคราเคน
+quest_kill_momma_crab_text	ฆ่าแม่ปู
+quest_make_ceviche_text	ทำเซวิเช่
+quest_make_fish_trap_text	ทำกับดักปลา
+quest_make_glass_text	ทำแก้ว
+quest_make_gold_bar_text	ทำทองคำแท่ง
+quest_make_rope_text	ทำเชือก
+quest_make_rum_text	ทำเหล้ารัมหนึ่งขวด
+quest_make_sail_text	แล่นเรือ
+quest_make_sandstone_text	ทำหินทราย
+quest_make_seafood_stew_text	ทำสตูว์ทะเล
+quest_make_sushi_text	ทำซูชิ
+quest_open_message_in_a_bottle_text	เปิดข้อความในขวด
+quest_open_sacred_chest_text	เปิดหีบศักดิ์สิทธิ์
+quest_poisoned_villager_text	มีชาวบ้านติดพิษ
+quest_punch_driftwood_text	ต่อยไม้ระแนง
+quest_train_a_fisher_text	ฝึกนักตกปลา
+quest_train_captain_text	ฝึกกัปตัน
+quest_unlock_all_island_packs_text	ปลดล็อคแพ็คเกาะทั้งหมด
+questgroup_building	ก่อสร้าง
+questgroup_cooking	ของว่าง
+questgroup_exploration	ค้นพบ
+questgroup_fighting	พลังและทักษะ
+questgroup_island	เกาะแห่งความทะเยอทะยาน
+questgroup_island_beginnings	ปล่อยเกาะ
+questgroup_island_combat	เผชิญหน้าวงล้อม
+questgroup_island_cooking	เกาะด้วง
+questgroup_island_mainquest	ความลึกลับของเกาะ
+questgroup_island_misc	เกาะอื่นๆ
+questgroup_mainquest	ผังใหญ่
+questgroup_other	อื่น
+questgroup_resources	วิธีการและทรัพยากร
+questgroup_starter	ยินดีต้อนรับ
+questgroup_survival	อายุยืนยาว
+rumor_eel_bait_description	เมื่อใช้กับดักปลา สามารถใช้กล้วยจับปลาไหลได้
+rumor_eel_bait_name	เหยื่อปลาไหล
+rumor_island_description	ทองและแก้วสามารถพบได้บนเกาะ
+rumor_island_name	เกาะ
+rumor_shark_bait_description	เมื่อใช้กับดักปลา สามารถใช้เนื้อดิบจับฉลามได้
+rumor_shark_bait_name	เหยื่อฉลาม
+rumor_tuna_bait_description	เมื่อใช้กับดักปลา สามารถใช้มะนาวเพื่อจับทูน่าได้
+rumor_tuna_bait_name	เหยื่อปลาทูน่า
+statuseffect_drunk_description	ลดความเร็วในทำงาน ลดโอกาสในโจมตี เพิ่มความเสียหายสูงสุด
+statuseffect_drunk_lore	เพลิดเพลิน กับหน้าที่
+statuseffect_drunk_name	เมา
+statuseffect_poison_description	สร้างความเสียหายทุกๆ 60 วินาที
+statuseffect_poison_lore	พิษ อันตรายไหลผ่านเส้นเลือด พวกเขาต้องยาแก้พิษโดยเร็วที่สุด
+statuseffect_poison_name	ติดพิษ
+statuseffect_spoiling_description	จะกลายเป็น Goop หลังจาก 1 จันทรา
+statuseffect_spoiling_lore	ปล่อยทิ้งไว้กลางแดดนานเกินไป
+statuseffect_spoiling_name	เน่า
+statuseffect_stunned_description	ไม่สามารถโจมตีได้เป็นเวลา 5 วินาที
+statuseffect_stunned_lore	แผลตอนนี้เจ็บมาก..
+statuseffect_stunned_name	มึนงง
+statuseffect_wellfed_description	เพิ่มความเร็วในทำงาน
+statuseffect_wellfed_lore	อาหารมื้อใหญ่ก็ทำได้ดี
+statuseffect_wellfed_name	เฟดแล้ว
+label_sailing_off_full	ล่องเรือออก
+language_dutch	ดัตช์
+language_french	ฝรั่งเศส
+language_german	เยอรมัน
+language_italian	อิตาลี
+language_polish	ขัด
+language_spanish	สเปน
+credits_aran	แนวคิด โปรแกรม ออกแบบ
+credits_lisa	ศิลปะเกม
+credits_sokpop	เกมโดย Sokpop
+credits_local_heroes	รองรับหลายภาษา
+credits_special_thanks	ขอขอบคุณเป็นพิเศษ
+label_relic_brought_to_cathedral	พระธาตุถูกนำมาที่อาสนวิหาร
+label_controls	ควบคุม
+control_time_1	ความเร็ว 1x
+control_time_2	ความเร็ว 5 เท่า
+control_time_3	ความเร็ว 0x
+control_time_pause	เวลาหยุดชั่วคราว
+control_panel_collapse	สลับแถบด้านข้าง
+control_zoom	ซูม
+control_sell	ขายบัตร
+control_time_toggle	สลับเวลา
+control_pause	หยุดเกมชั่วคราว
+control_grab	คว้า
+control_activate_UI	เปิดใช้งาน UI
+control_move	เคลื่อนไหว
+control_snap_move	เคลื่อนที่แบบดึงดูด
+control_snap_cards	ดึงดูดไปตามตาราง
+label_keyboard_mouse	คีย์บอร์ดและเมาส์
+label_controller	คอนโทรลเลอร์
+label_waiting_for_input	กำลังรอป้อนข้อมูล
+label_sellbox_description	ลาก์ดมาที่นี่เพื่อขาย คุณยังสามารถใช้ [action_sell] เพื่อขายการ์ดได้
+label_toggle_panel_text	กดปุ่มนี้หรือกด [action_panel_collapse] เพื่อสลับแท็บภารกิจและแนวคิด
+label_auto_pause_controller	หยุดเวลาชั่วคราวโดยอัตโนมัติเมื่อลาก์ด (คอนโทรลเลอร์):
+label_auto_pause_keyboardmouse	หยุดเวลาชั่วคราวโดยอัตโนมัติเมื่อลาก์ด (คีย์บอร์ด):
+label_binding	กำหนด [control]
+label_accessibility	เข้าถึง
+language_portuguese	โปรตุเกส บราซิล
+language_chinese	จีน
+language_japanese	ญี่ปุ่น
+language_korean	เกาหลี
+label_progress_stored	ความคืบหน้าจะถูกบันทึกไว้
+label_go_to_island_prompt	คุณแน่ใจหรือว่าต้องเดินทางไปเกาะแห่งนี้? สิ่งนี้จะสิ้นสุดจันทราปัจจุบันและให้อาหารชาวบ้านของคุณก่อน
+label_return_to_mainland_prompt	คุณแน่ใจหรือว่าต้องเดินทางกลับแผ่นดินใหญ่? สิ่งนี้จะสิ้นสุดจันทราปัจจุบันและให้อาหารชาวบ้านของคุณก่อน
+label_not_enough_food_before_sailing	คุณต้องมีอาหารเพียงพอสำหรับชาวบ้านก่อนจึงจะสามารถออกเรือได้
+idea_growth_status_11	สาหร่ายทะเลที่กำลังเติบโต
+card_market_description	สามารถใช้ขายการ์ดได้ราคาดีมากกว่าปกติ
+attackdamage_veryweak	อ่อนแอมาก
+attackdamage_weak	อ่อนแอ
+attackdamage_normal	ปกติ
+attackdamage_strong	แข็งแกร่ง
+attackdamage_verystrong	แข็งแรงมาก
+attackdamage_extremelystrong	แข็งแกร่งเกินไป
+attackspeed_veryslow	ช้ามาก
+attackspeed_slow	ช้า
+attackspeed_normal	ปกติ
+attackspeed_fast	เร็ว
+attackspeed_veryfast	เร็วมาก
+attackspeed_extremelyfast	รวดเร็วมาก
+card_amulet_of_forest_description	คุณรู้สึกถึงพลังรักษาของธรรมชาติที่ไหลผ่านคุณ
+card_amulet_of_forest_name	เครื่องรางแห่งป่า
+card_amulet_of_mountain_description	มันเชื่อมต่อคุณกับผืนดิน
+card_amulet_of_mountain_name	เครื่องรางภูเขา
+card_archer_description	ไม่ควรเข้าใกล้เกินไป
+card_archer_name	อาร์เชอร์
+card_axe_description	สำหรับสับไม้และสัตว์ประหลาด
+card_axe_name	ขวาน
+card_bear_claw_description	ถุงมือ Wolverine ราคาถูก
+card_bear_claw_name	กรงเล็บหมี
+card_blowpipe_description	เป่าให้แรงที่สุดเท่าที่จะทำได้
+card_blowpipe_name	หลอดเป่าลูกดอก
+card_blunderbuss_description	ระวัง! อาจระเบิดใส่หน้าตัวเองได้
+card_blunderbuss_name	ปืนปากแตร
+card_bone_spear_description	เวอร์ชันที่น่ากลัวของหอกธรรมดา
+card_bone_spear_name	หอกกระดูก
+card_bone_staff_description	กระดูกที่มีความสามารถพิเศษ
+card_bone_staff_name	ไม้เท้ากระดูก
+card_boomerang_description	กลับมาหาคุณเสมอ
+card_boomerang_name	บูมเมอแรง
+card_bow_description	ทำให้คุณรู้สึกเหมือนโรบินฮู้ด
+card_bow_name	ธนู
+card_broken_bottle_description	ถูกตัดออก เพื่อเหตุผลบางอย่าง
+card_broken_bottle_name	ขวดแตก
+card_builder_description	สร้างอาคารเร็วกว่า
+card_builder_name	ช่างก่อสร้าง
+card_bunny_hat_description	มันน่ารัก!
+card_bunny_hat_name	หมวกกระต่าย
+card_chainmail_armor_description	ยุคคลาสสิกในยุคกลาง
+card_chainmail_armor_name	เกราะลูกโซ่
+card_club_description	ไม่ได้ใช้สำหรับเล่นเบสบอล
+card_club_name	กระบอง
+card_crab_scale_armor_description	กระดองที่ไม่สามารถถูกเจาะได้
+card_crab_scale_armor_name	ชุดเกราะเกล็ดปู
+card_crossbow_description	ปืนสำหรับลูกธนู
+card_crossbow_name	หน้าไม้
+card_dark_amulet_description	พลังแห่งความมืดทำให้คุณแข็งแกร่งขึ้น
+card_dark_amulet_name	เครื่องรางแห่งความมืด
+card_dark_elf_description	เวอร์ชั่นอีโมของเอลฟ์ธรรมดา
+card_dark_elf_name	ดาร์กเอลฟ์
+card_demon_sword_description	ดาบที่ยอดเยี่ยมที่ปีศาจใช้เอง
+card_demon_sword_name	ดาบปีศาจ
+card_elf_archer_description	เอลฟ์เป็นนักธนูที่เก่งที่สุด
+card_elf_archer_name	เอลฟ์ อาร์เชอร์
+card_elf_description	ไม่ได้ทำงานซานตาคลอสอีกแล้ว
+card_elf_name	เอลฟ์
+card_enchanted_shroom_description	มันเป็นไม้กวาดวิเศษ
+card_enchanted_shroom_name	ไม้กวาดวิเศษ
+card_ent_description	ต้นไม้พูดและเดินได้
+card_ent_name	ภูติไม้
+card_feral_cat_description	มันมีโรคพิษสุนัขบ้าหรือเปล่า? อาจจะ!
+card_feral_cat_name	แมวดุร้าย
+card_fire_cloak_description	ไฟลุกอยู่!
+card_fire_cloak_name	เสื้อคลุมไฟ
+card_frog_helmet_description	ให้พลังกบแก่คุณ
+card_frog_helmet_name	หมวกกบ
+card_frog_man_description	คนที่ทำจากกบ
+card_frog_man_name	มนุษย์กบ
+card_ghost_description	จะแสดงตัวเฉพาะในภาพถ่ายคุณภาพต่ำเท่านั้น
+card_ghost_name	ผี
+card_giant_snail_description	ชาวฝรั่งเศสคงจะคลั่งไคล้สิ่งนี้
+card_giant_snail_name	หอยทากยักษ์
+card_goblin_archer_description	ก็อบลินธรรมดาที่มีความสามารถมากกว่า
+card_goblin_archer_name	ก็อบลินอาร์เชอร์
+card_goblin_hat_description	แฟชั่นก็อบลินล้าสมัย
+card_goblin_hat_name	หมวกก็อบลิน
+card_goblin_shaman_description	ทำให้ก็อบลินตัวอื่นมีความสุข
+card_goblin_shaman_name	ก็อบลิน ชาแมน
+card_gold_chestplate_description	แต่งตัวเกินไปนิดสำหรับร่วมงานสังสรรค์นะ
+card_gold_chestplate_name	แผ่นอกทองคำ
+card_hammer_description	ช้าและทื่อแต่อัดแน่นๆแน่นอน
+card_hammer_name	ค้อน
+card_helmet_description	อยู่บนหัวของคุณ เหมาะสำหรับปั่นจักรยาน
+card_helmet_name	หมวกนิรภัย
+card_horned_helmet_description	มีประโยชน์สำหรับการเอาหัวชน
+card_horned_helmet_name	หมวกมีเขา
+card_iron_shield_description	ป้องกันที่แข็งแกร่งต่อโจมตีที่รุนแรง
+card_iron_shield_name	โล่เหล็ก
+card_kraken_tooth_axe_description	ทิ้งไว้ให้นางฟ้าฟันน้ำนม แต่คุณเอาไปแทน
+card_kraken_tooth_axe_name	ขวานฟันคราเคน
+card_leather_tunic_description	ชุดเกราะที่ทำจากหนังที่ดีที่สุด
+card_leather_tunic_name	เสื้อหนัง
+card_lumberjack_description	เก็บเกี่ยวไม้ได้เร็วกว่ามาก
+card_lumberjack_name	คนตัดไม้
+card_mage_description	พ่อมดหลังเรียนจบ
+card_mage_name	นักเวทย์
+card_magic_blade_description	ดาบธรรมดาที่เปล่งประกาย
+card_magic_blade_name	ใบมีดวิเศษ
+card_magic_broom_description	คุณเอามาจากหญิงชราบางคน
+card_magic_broom_name	ไม้กวาดวิเศษ
+card_magic_dust_description	ดูเหมือนจะแวววาว
+card_magic_dust_name	ผงเวทย์มนตร์
+card_magic_ring_description	เมื่อมันอยู่บนนิ้วของคุณ มันจะมอบพลังเวทย์มนตร์ให้กับคุณ
+card_magic_ring_name	แหวนวิเศษ
+card_magic_staff_description	ไม้ยาว เสริมพลังเวท
+card_magic_staff_name	ไม้เท้าวิเศษ
+card_magic_tome_description	หนังสือเก่าที่มีคาถาอยู่ในนั้น
+card_magic_tome_name	หนังสือเวทมนต์
+card_magic_wand_description	อาวุธเวทย์มนตร์ที่เรียบง่าย
+card_magic_wand_name	ไม้กายสิทธิ์
+card_merman_description	ครึ่งคน ครึ่งเมอร์
+card_merman_name	เงือก
+card_mimic_description	เกือบโดนหลอกแล้ว
+card_mimic_name	มิมิค
+card_miner_description	เก็บเกี่ยวหิน ทอง และเหล็กได้เร็วยิ่งขึ้น
+card_miner_name	คนขุดแร่
+card_morning_star_description	ลูกหนาม ติดกับไม้
+card_morning_star_name	ลูกตุ้มหนาม
+card_mosquito_description	เขาเกลียดตัวเอง
+card_mosquito_name	ยุง
+card_ninja_description	เงียบและอันตรายถึงชีวิต
+card_ninja_name	นินจา
+card_ogre_description	ใหญ่และอ้วน
+card_ogre_name	ยักษ์
+card_orc_wizard_description	โหดร้ายและสีเขียว
+card_orc_wizard_name	พ่อมดออร์ค
+card_pickaxe_description	ไม้ที่มีปลายแหลมสองอัน
+card_pickaxe_name	เสียม
+card_pirate_hat_description	มีประโยชน์สำหรับแต่งตัวปาร์ตี้
+card_pirate_hat_name	หมวกโจรสลัด
+card_pirate_sword_description	ออกแบบมาสำหรับคนชอบเหวี่ยง
+card_pirate_sword_name	กระบี่โจรสลัด
+card_quiver_description	ทำให้คุณมีประสิทธิภาพมากขึ้น
+card_quiver_name	ซองธนู
+card_rat_crown_description	กลายเป็นราชาแห่งหนู
+card_rat_crown_name	หนูมงกุฎ
+card_skull_helmet_description	ค่อนข้างจะเลอะเทอะ
+card_skull_helmet_name	หมวกกระโหลก
+card_slingshot_description	ขว้างหินใส่ศัตรูอย่างไม่ถูกต้องมาก
+card_slingshot_name	หนังสติ๊ก
+card_smithy_description	สิ่งก่อสร้างที่ใช้สำหรับสร้างอาวุธที่ดีกว่า
+card_smithy_name	โรงตีเหล็ก
+card_spiked_plank_description	สำหรับคนงานก่อสร้างที่ยากลำบาก
+card_spiked_plank_name	ไม้กระดานแหลม
+card_stable_portal_name	พอร์ทัลที่เสถียร
+card_stable_portal_status	เข้าสู่พอร์ทัล
+card_staff_of_fear_description	น่ากลัวมาก!!
+card_staff_of_fear_name	ไม้เท้าแห่งความกลัว
+card_strange_portal_description	มันดูคุกคาม.. ฉันสงสัยว่าเราจะเข้าไปได้ไหม?
+card_strange_portal_name	พอร์ทัลแปลก
+card_throwing_star_description	รวดเร็วและแม่นยำ นินจาชอบพวกมัน
+card_throwing_star_name	ดาวกระจาย
+card_tiger_fur_coat_description	ไร้สาระ แต่อย่างน้อยก็ทำให้คุณรู้สึกเข้มแข็ง
+card_tiger_fur_coat_name	เสื้อขนสัตว์เสือ
+card_warrior_description	ชาวบ้านที่ไปออกกำลังกาย
+card_warrior_name	นักรบ
+card_wicked_witch_description	ฉันชอบเธอมากขึ้นตอนที่เธอยังเป็นแค่หญิงชราธรรมดา
+card_wicked_witch_name	แม่มดชั่วร้าย
+card_wicked_witch_name_2	หญิงชรา
+card_wizard_description	ชาวบ้านที่มีเวทย์มนต์
+card_wizard_name	พ่อมด
+card_wizard_robe_description	มันเหมือนกับผ้าคลุมจะมีมนต์ขลัง
+card_wizard_robe_name	ผ้าคลุมพ่อมด
+card_wolf_head_description	เหมาะสำหรับเหล่า Furry
+card_wolf_head_name	หัวหมาป่า
+card_wooden_shield_description	มาตราการป้องกันขั้นพื้นฐานต่อการโจมตีที่รุนแรง
+card_wooden_shield_name	โล่ไม้
+cardtype_equipable	อุปกรณ์
+control_toggle_inventory	เปิดกล่อง
+credits_wouter	เขียนโปรแกรม
+defence_veryweak	อ่อนแอมาก
+defence_weak	อ่อนแอ
+defence_normal	ปกติ
+defence_strong	แข็งแกร่ง
+defence_verystrong	แข็งแรงมาก
+defence_extremelystrong	แข็งแกร่งเกิน
+hitchance_verysmall	ขนาดเล็กมาก
+hitchance_small	เล็ก
+hitchance_normal	ปกติ
+hitchance_high	สูง
+hitchance_veryhigh	สูงมาก
+hitchance_extremelyhigh	สูงเกิน
+idea_amulet_of_forest_status_0	สร้างเครื่องรางแห่งป่า
+idea_amulet_of_mountain_status_0	สร้างเครื่องรางแห่งขุนเขา
+idea_axe_status_0	สร้างขวาน
+idea_blowpipe_status_0	สร้าง ท่อเป่าลูกดอก
+idea_blunderbuss_status_0	สร้าง ปืนปากแตร
+idea_bone_spear_status_0	สร้างหอกกระดูก
+idea_bone_staff_status_0	สร้างไม้เท้ากระดูก
+idea_boomerang_status_0	สร้างบูมเมอแรง
+idea_bow_status_0	สร้างธนู
+idea_broken_bottle_status_0	ทุบขวด
+idea_chainmail_armor_status_0	สร้างเกราะลูกโซ่
+idea_club_status_0	สร้างกระบอง
+idea_crossbow_status_0	สร้างหน้าไม้
+idea_gold_chestplate_status_0	ตีเกราะอก
+idea_growth_status_12	ปลูกอ้อย
+idea_hammer_status_0	สร้างค้อน
+idea_iron_shield_status_0	ตีโล่เหล็ก
+idea_magic_blade_status_0	สร้างดาบวิเศษ
+idea_magic_ring_status_0	สร้างแหวนวิเศษ
+idea_magic_staff_status_0	สร้างไม้เท้าวิเศษ
+idea_magic_tome_status_0	สร้างหนังสือเวทย์มนตร์
+idea_magic_wand_status_0	สร้างไม้กายสิทธิ์
+idea_pickaxe_status_0	สร้างพลั่ว
+idea_slingshot_status_0	สร้างหนังสติ๊ก
+idea_smithy_status_0	สร้างโรงตีเหล็ก
+idea_spiked_plank_status_0	เหลาไม้กระดาน
+idea_stable_portal_status_0	สร้างพอร์ทัลที่มีเสถียรภาพ
+idea_throwing_star_status_0	สร้างดาวกระจาย
+idea_wizard_robe_status_0	สร้างชุดพ่อมด
+idea_wooden_shield_status_0	สร้างโล่ไม้
+label_base_combatlevel	ระดับต่อสู้ฐาน [level]
+label_can_drop	สามารถดรอป:
+label_cancel_the_ritual	รอสักครู่...
+label_combatlevel	ระดับต่อสู้ [level]
+label_debug_cards	Does not need to be translated
+label_debug_coin_chest	Does not need to be translated
+label_debug_effects	Does not need to be translated
+label_debug_end_moon	Does not need to be translated
+label_debug_endless_moon	Does not need to be translated
+label_debug_general	Does not need to be translated
+label_debug_start_cities_run	Does not need to be translated
+label_debug_reset_run	Does not need to be translated
+label_debug_scenario_demon	Does not need to be translated
+label_debug_scenario_demon_lord	Does not need to be translated
+label_debug_scenario_island	Does not need to be translated
+label_debug_scenario_kraken	Does not need to be translated
+label_debug_scenario_witch_forest	Does not need to be translated
+label_debug_shortcut_copy	Does not need to be translated
+label_debug_shortcut_delete	Does not need to be translated
+label_debug_shortcut_heal	Does not need to be translated
+label_debug_shortcut_progress	Does not need to be translated
+label_debug_shortcut_status	Does not need to be translated
+label_debug_shortcuts	Does not need to be translated
+label_debug_spawn_enemies	Does not need to be translated
+label_debug_toggle_no_food	Does not need to be translated
+label_debug_toggle_peaceful_mode	Does not need to be translated
+label_debug_unlock_boosters	Does not need to be translated
+label_debug_unlock_ideas	Does not need to be translated
+label_debug_unlock_quests	Does not need to be translated
+label_defence	ป้องกัน
+label_demo	ทดลอง
+label_demo_any_key_to_start	กดปุ่มใดก็ได้เพื่อเริ่มเล่น
+label_demo_reset_warning	สาธิตจะรีเซ็ตใน [time] กดปุ่มใดก็ได้เพื่อดำเนินต่อ
+label_equiping	กำลังสวมใส่ [card]
+label_everyone_in_forest_dead	คุณไม่สามารถหาทางแก้แค้นได้
+label_everyone_in_forest_dead_text	เข้มแข็งขึ้นแล้วลองอีกครั้ง!
+label_extra_combat_stats	สถิติต่อสู้เพิ่มเติม: [on_off]
+label_forest_fight	เตรียมต่อสู้!
+label_forest_fight_wave_10	เตรียมต่อสู้กับแม่มดชั่วร้าย!
+label_forest_intro_1	คุณเข้าสู่ป่ามืดที่แปลกประหลาด
+label_forest_intro_2	หญิงชราปรากฏตัว!
+label_forest_intro_3	สวัสดีวันใหม่ คุณนักเดินทาง..
+label_forest_intro_4	ตอนนี้เธอใกล้เข้ามาแล้ว เธอดูไม่เหมือนหญิงชราเลย!
+label_forest_intro_5	เธอเป็นแม่มดชั่วร้าย!
+label_forest_intro_6	แกมาเพื่อแก้แค้น แต่แกจะไม่มีวันเอาชนะฉันได้!
+label_forest_intro_title	ป่าแห่งความมืด
+label_forest_leave	คุณหนีไปพร้อมกับสิ่งที่คุณหาได้
+label_forest_lost	น่าสงสาร มีดีแค่นี้เหรอ?
+label_forest_lost_2	ชาวบ้านของคุณทั้งหมดล้มลง คุณต้องรับความสูญเสียและถอยกลับ
+label_forest_lost_title	ชาวบ้านของคุณก็อารมณ์แย่ลง
+label_forest_resume	แล้วคุณจะกลับมาอีกไหม? คุณจะไม่มีวันเอาชนะฉันได้!
+label_forest_resume_title	กลับมาอีกครั้ง?
+label_forest_wave_10_end	มันเกิดขึ้นได้อย่างไร? ฉันจะเอาชนะคุณ!
+label_forest_wave_10_end2	คุณต้องที่จะต่อสู้กับแม่มดชั่วร้ายหรือออกจากป่า?
+label_forest_wave_end	แกกำจัดสมุนของฉัน แต่ฉันยังมีอีกพวกมันอีกเยอะ
+label_forest_wave_end_leave	หนีไปที่ป่า
+label_forest_wave_end_next_wave	คลื่นต่อสู้ [wave]
+label_forest_wave_end_wave_10	ต่อสู้กับแม่มดชั่วร้าย
+label_forest_wave_end2	คุณต้องสู้กับคลื่นลูกต่อไปหรือหนี?
+label_forest_wave_endless_end	คุณได้เอาชนะแม่มดชั่วร้ายแล้ว แต่พลังแห่งความมืดยังคงอยู่...
+label_forest_wave_endless_end3	คุณสามารถต่อสู้ต่อไปเพื่อรับทรัพยากรเพิ่มเติมได้
+label_forest_wave_title	พ่ายแพ้คลื่น
+label_framerate_120	120 เฟรมต่อวินาที
+label_framerate_30	30 เฟรมต่อวินาที
+label_framerate_60	60 เฟรมต่อวินาที
+label_framerate_cap	ขีดจำกัดอัตราเฟรม: [fps_cap]
+label_framerate_unlimited	ไม่มี
+label_go_to_forest_prompt	คุณแน่ใจหรือไม่ว่าต้องเดินทางผ่านพอร์ทัลนี้
+label_inventory	รายการสิ่งของ
+label_not_enough_food_before_portal	คุณต้องมีอาหารเพียงพอสำหรับชาวบ้านก่อนจึงจะสามารถเข้าสู่พอร์ทัลได้
+label_taking_portal_full	เคลื่อนย้ายผ่านทางพอร์ทัล
+label_taking_portal_title	ใช้พอร์ทัล
+label_total_combatlevel	ระดับต่อสู้ทั้งหมด [level]
+quest_break_bottle_text	ทำลายขวด
+quest_build_smithy_text	สร้างโรงตีเหล็ก
+quest_build_stable_portal_text	สร้างพอร์ทัลที่มีเสถียรภาพ
+quest_craft_amulet_forest_text	สร้างเครื่องรางแห่งป่า
+quest_equip_archer_quiver_text	สวมใส่ธนูด้วยซองธนู
+quest_fight_wave_six_text	เข้าเวฟ 6 
+quest_fight_wicked_witch_text	ต่อสู้กับแม่มดชั่วร้าย
+quest_find_dark_forest_text	ค้นหาป่าแห่งความมืด
+quest_finish_first_wave_text	เสร็จสิ้นคลื่นแรก
+quest_plant_berry_bush_text	ปลูกพุ่มเบอร์รี่ โดยใช้ดิน
+quest_punch_rock_text	ขุดหินโดยใช้ชาวบ้าน
+quest_punch_tree_text	เก็บเกี่ยวต้นไม้โดยใช้ชาวบ้าน
+quest_train_archer_text	ฝึกนักธนู
+quest_train_ninja_text	ฝึกนินจา
+quest_train_wizard_text	ฝึกฝนพ่อมด
+quest_villager_combat_20_text	มีชาวบ้านที่มีระดับต่อสู้ 20
+quest_wear_bunny_hat_text	ให้ชาวบ้านสวมหมวกกระต่าย
+quest_wear_crab_scale_armor_text	ทำให้ชาวบ้านสวมชุดเกราะกระดองปู
+questgroup_equipment	เสริมกำลัง
+questgroup_forest_mainquest	ป่าแห่งความมืด
+rumor_combat_description	โจมตีบางประเภทแข็งแกร่งกว่าประเภทอื่น ตัวอย่างเช่น Melee ชนะ Magic!
+rumor_combat_name	ต่อสู้
+specialhit_bleeding_long	[chance]% โอกาสที่จะเลือดออกกับ [target]
+specialhit_crit_long	[chance]% โอกาสที่จะทำโจมตีคริติคอลบน [target]
+specialhit_damage_long	[chance]% โอกาสที่จะสร้างความเสียหายกับ [target]
+specialhit_frenzy_long	[chance]% โอกาสที่จะทำให้ [target] บ้าคลั่ง
+specialhit_heal_long	[chance]% โอกาสที่จะรักษา [target]
+specialhit_heallowest_long	โอกาส [chance]% ที่จะรักษาเป็นมิตรกับสิ่งแวดล้อมโดยมีพลังชีวิตต่ำสุด
+specialhit_invulnerable_long	โอกาส [chance]% ที่จะทำให้ [target] คงกระพัน
+specialhit_lifesteal_long	[chance]% โอกาสที่จะดูดเลือดจาก [target]
+specialhit_poison_long	[chance]% โอกาสที่จะทำให้ [target] ติดพิษ 
+specialhit_stun_long	[chance]% โอกาสที่จะทำให้ [target] มึนงง
+statuseffect_bleeding_description	สร้างความเสียหายทุกๆ 2 วินาที เป็นเวลา 10 วินาที
+statuseffect_bleeding_lore	มันกำลังไหลออกมา
+statuseffect_bleeding_name	เลือดออก
+statuseffect_frenzy_description	เพิ่มความเร็วในโจมตีเป็นเวลา 10 วินาที
+statuseffect_frenzy_lore	พวกเขาโกรธมาก
+statuseffect_frenzy_name	บ้าคลั่ง
+statuseffect_invulnerable_description	ไม่สามารถสร้างความเสียหายได้เป็นเวลา 10 วินาที
+statuseffect_invulnerable_lore	ทำให้ผิวแขงเหมือนเหล็ก
+statuseffect_invulnerable_name	คงกระพัน
+target_allenemy	ศัตรูทั้งหมด
+target_allfriendly	มิตรทั้งหมด
+target_randomenemy	ศัตรูแบบสุ่ม
+target_randomfriendly	มิตรแบบสุ่ม
+target_self	ตัวเอง
+target_target	เป้าหมาย
+cardtype_humans	ชาวบ้าน
+label_food_infobox	ทุกจันทรา คุณต้องมี [required_food_count] [foodicon] เพื่อเลี้ยงชาวบ้านของคุณ ขณะนี้คุณมี [food_count] [foodicon]
+label_food_infobox_warning	หา [foodicon] เพื่อที่คุณจะได้ไม่สูญเสียชาวบ้านไป!
+label_starving_humans	<one>อาหารไม่เพียงพอ.. ชาวบ้าน 1 คนจะอดอยากจากความหิว<other>อาหารมีไม่เพียงพอ.. [count] ชาวบ้านอดอาหารจากความหิว
+card_tuna_description	ปลาอ้วน
+card_cod_description	ปลาเปียกและลื่น
+card_mackerel_description	ปลาเล็ก
+label_health	เลือดสูงสุด
+label_wave	คลื่น [wave]
+label_undiscovered_cards_tooltip	แพ็กนี้ยังมี์ดบางใบที่ยังไม่ได้ค้นพบ
+label_undiscovered_cards_tooltip_title	การ์ดที่ไม่ถูกค้นพบ
+rumor_dark_forest_name	ป่าที่มืด
+rumor_dark_forest_description	มีโลกที่ซ่อนอยู่เบื้องหลังประตูมิติแปลกๆนั่น
+pack_equipment_text	คลังแสง
+label_ui_scale	ขนาด UI: [scale]
+label_ui_scale_100	100%
+label_ui_scale_80	80%
+label_ui_scale_60	60%
+pack_combat_intro_text	อาวุธใหม่
+label_strange_portal_appeared_strong	มันดูแข็งแกร่งกว่าปกติ
+label_itemlevel	ระดับไอเทม [level]
+label_health_info	เลือด : [health]/[maxhealth]
+card_rare_portal_name	พอร์ทัลหายาก
+card_rare_portal_description	มันดูคุกคาม.. ฉันสงสัยว่าเราจะเข้าไปได้ไหม?
+label_forest_wave_endless_end2	คุณทำภารกิจ ป่าทะมึน เสร็จแล้ว
+label_max_villager_in_portal	คุณสามารถพาชาวบ้านไปได้เพียง 7 คนในพอร์ทัลเท่านั้น
+card_stable_portal_description	พอร์ทัลถาวรสู่ ป่าทะมึน สามารถพาไพ่ไปได้ 7 ใบ ถึงเวลาแก้แค้น!
+label_update_title_forest	อัพเดตป่าแห่งความมืด
+label_update_text_forest	อัปเดตล่าสุดอยู่ที่นี่แล้ว! เราได้เพิ่มพื้นที่ใหม่ ทำเปลี่ยนแปลงครั้งใหญ่ในต่อสู้ในเกม และเพิ่มแก้ไขคุณภาพชีวิตหลายประเภท!## อัปเดตนี้นำเปลี่ยนแปลงมากมายมาสู่เกมหลัก เพื่อประสบณ์ที่ดีที่สุด คุณควรเริ่มวิ่งใหม่!
+card_militia_description	ชาวบ้านที่พร้อมจะโวยวาย
+card_swordsman_description	ชาวบ้านพร้อมลุย!
+quest_pause_game_text	หยุดชั่วคราวโดยใช้ไอคอนเล่นที่มุมขวาบน
+card_university_name	มหาวิทยาลัย
+card_university_description_long	สถานที่แห่งปัญญา ให้แนวคิดใหม่แก่คุณสำหรับทุก ๆ [max_count] เหรียญที่คุณมอบให้ [count]/[max_count] เหรียญที่มอบให้
+card_university_description_completed	สถานที่แห่งปัญญา คุณได้ค้นพบไอเดียทั้งหมดของพวกเขาแล้ว
+idea_university_status_0	สร้างมหาวิทยาลัย
+label_invention_fullname	สิ่งประดิษฐ์: [name]
+card_lighthouse_name	ประภาคาร
+card_lighthouse_description	เพิ่มขนาดกระดานเกินขีดจำกัดคลังสินค้า
+idea_lighthouse_status_0	สร้างประภาคาร
+card_resource_chest_name_override	 หีบ [resource]
+card_resource_chest_name	หีบทรัพยากร
+card_resource_chest_description	กล่องสำหรับจัดเก็บทรัพยากร
+card_resource_chest_description_long	หีบที่บรรจุ  [resource] [amount]ชิ้น
+idea_resourcechest_status_0	สร้างหีบทรัพยากร
+card_resource_magnet_name	แม่เหล็กทรัพยากร
+card_resource_magnet_name_override	[resource] แม่เหล็ก
+card_resource_magnet_description	การ์ดใบนี้จะดึงไพ่ชนิดเดียวกันเข้าหาอย่างน่าอัศจรรย์
+card_resource_magnet_description_long	แม่เหล็กกำลังดึง [resource]
+idea_resource_magnet_status_0	สร้างแม่เหล็กทรัพยากร
+card_heavy_foundation_name	กาวเวทย์มนต์
+card_heavy_foundation_description	ติดการ์ดเข้ากับกระดานและป้องกันไม่ให้เคลื่อนย้าย
+idea_heavy_foundation_status_0	ประดิษฐ์กาวเวทย์มนต์
+card_conveyor_name	เครน
+card_conveyor_description	ยกการ์ดจากที่หนึ่งไปอีกที่หนึ่ง
+card_conveyor_status	ยก [resource]
+idea_conveyor_status_0	สร้างเครน
+card_hotpot_name	หม้อไฟ
+card_hotpot_description	แหล่งอาหารที่สามารถเติมให้ชาวบ้านของคุณสามารถรับประทานได้ เพิ่มอาหารแล้วจะถูกกินจากมันตอนสิ้นจันทรา!
+idea_hotpot_status_0	สร้างฮอทพอท
+card_trash_can_name	ถังขยะ
+card_trash_can_description	ช่วยให้คุณกำจัด์ดที่คุณไม่ต้องอีกต่อไป
+idea_trash_can_status_0	สร้างถังขยะ
+card_trash_can_status_0	กำจัดการ์ด
+label_update_text_chaos	นี่คืออัปเดตเล็กๆ น้อยๆ ใหม่! เราได้เพิ่มการ์ดจำนวนหนึ่งที่จะทำให้ชีวิตในช่วงกลางเกมและช่วงท้ายเกมจัดได้ง่ายขึ้นมาก##มีการ์ดหลายใบที่จะช่วยคุณในจัดอาหาร จัดทรัพยากร และแม้แต่การ์ดบางใบที่คุณสามารถใช้เพื่อตั้งค่า ปรับปรุงระบบอัตโนมัติง่ายๆ!##เรายังได้แก้ไขข้อบกพร่องบางอย่าง รวมถึงแก้ไขคุณภาพชีวิตเพิ่มเติมด้วย ขอให้สนุก!
+label_update_title_chaos	สั่งซื้อและโครงสร้าง
+label_menu_sub_title	สั่งซื้อและโครงสร้าง
+card_breeding_pen_name	คอกผสมพันธุ์
+card_breeding_pen_description	คอกสำหรับเพาะพันธุ์สัตว์
+idea_breedingpen_status_0	สร้างคอกเพาะพันธุ์
+action_breeding_status	ผสมพันธุ์สัตว์
+action_slaughtering_status	เชือดสัตว์
+card_slaughter_house_name	โรงฆ่าสัตว์
+card_slaughter_house_description	ส่งสัตว์ไปท่องเที่ยว
+idea_slaughterhouse_status_0	สร้างโรงฆ่าสัตว์
+card_wishing_well_name	บ่ออธิษฐาน
+card_wishing_well_description_long	<one>มันให้ความปรารถนาแก่คุณทุก ๆ [count] เหรียญ ขณะนี้คุณมี [amount] ความปรารถนา<other>มันให้ความปรารถนาแก่คุณสำหรับทุก ๆ [count] เหรียญ ขณะนี้คุณมีความปรารถนา [amount]
+card_wishing_well_wish_1	อ่า! ความปรารถนาแรกของฉัน
+card_wishing_well_wish_2	ฉันรู้สึกโชคดี!
+card_wishing_well_wish_5	โอ้ วันสุขสันต์!
+card_wishing_well_wish_10	ฉันหวังว่า บ่ออธิษฐาน นี้จะทำอะไรบางอย่างได้ไหม?
+card_wishing_well_wish_20	ฉันแน่ใจว่าฉันใช้เงินเป็นจำนวนมากกับความปรารถนา
+card_wishing_well_wish_50	นี่จะไม่ไปไหนเลย ฉันควรหยุดซื้อความปรารถนา
+idea_wishing_well_status_0	สร้างบ่อน้ำแห่งความปรารถนา
+card_brickyard_status	ทำอิฐ
+card_sawmill_status	ทำไม้กระดาน
+label_one_villager_needs_to_stay_island	ชาวบ้านอย่างน้อยหนึ่งคนต้องอยู่บนเกาะ
+card_university_status	กำลังค้นคว้า
+card_altar_description	ใช้สำหรับอัญเชิญวิญญาณ
+card_altar_name	แท่นบูชา
+card_angry_royal_description	คุณได้ทำให้ คนที่สำคัญที่สุดโกรธ
+card_angry_royal_name	ราชวงศ์โกรธา
+card_animal_cage_description	สามารถเลี้ยงสัตว์ได้ 1 ตัว
+card_animal_cage_name	กรงสัตว์
+card_animal_cage_status_0	สร้างกรงสัตว์
+card_animal_eating_status	กินข้าว
+card_animal_old_name	เก่า [name]
+card_animal_pen_status	[name] กำลังผลิต [การ์ด]
+card_baby_dragon_description	ไดโนเสาร์ที่มีเวทย์มนต์
+card_baby_dragon_name	มังกรน้อย
+card_barrel_description	เปลี่ยนของเปียกๆให้เป็นส่วนของเปียกๆอีกอัน
+card_barrel_name	ถังหมัก
+card_barrel_status_0	สร้างถังหมัก
+card_beer_description	น้ำและข้าวสาลี คู่หูอันเป็นเอกลักษณ์
+card_beer_name	เบียร์
+card_beer_status_0	ต้มเบียร์
+card_book_description	วิดีโอเกม แต่สำหรับคนเนิร์ด
+card_book_name	หนังสือ
+card_book_status_0	ทำหนังสือ
+card_bread_description	ใครจะไม่ชอบ.
+card_bread_name	ขนมปัง
+card_bread_status_0	อบขนมปัง
+card_cat_description	น่ารักและใจร้าย
+card_cat_name	แมว
+card_charity_description	สร้างความสุข 1 ครั้งสำหรับทุก ๆ [amount] เหรียญที่คุณมอบให้
+card_charity_name	อาคารสงเคราะห์
+card_charity_status_0	สร้างอาคารสงเคราะห์
+card_charity_status_active	สงเคราะห์
+card_cheese_description	เหมือนจะเป็นชีสเกาดา
+card_cheese_name	ชีส
+card_cheese_status_0	ทำชีส
+card_corpse_name_long	ศพของ [name]
+card_corpse_remove	ฝังศพ
+card_crown_description	ทำตัวเป็นชนชั้นสูง
+card_crown_name	มงกุฎ
+card_crown_status_0	ทำมงกุฎ
+card_curse_happiness_description	ชาวบ้านของคุณต้องความสุขทุก ๆ [month] จันทราที่
+card_death_curse_description	ตายแต่ไม่มีภาษี ชาวบ้านจะแก่และป่วย
+card_death_curse_name	คำสาปแห่งความตาย
+card_death_recipe_description	ถวายเนื้อดิบที่แท่นบูชาจะเรียกวิญญาณออกมา
+card_death_recipe_name	โลกแห่งความตาย
+card_death_spirit_description	จากโลกอันไกลโพ้นที่ชาวบ้านแก่ชราและเจ็บป่วย
+card_death_spirit_name	วิญญาณแห่งความตาย
+card_display_spirit_dlc_description	ซื้อ Cursed Worlds DLC เพื่อเข้าถึงการ์ดเหล่านี้
+card_display_spirit_dlc_name	โลกที่ถูกสาป
+card_dough_description	ผ่านทดสอบบานหน้าต่าง
+card_dough_name	แป้งโด
+card_dough_status_0	ทำแป้ง
+card_dragon_egg_description	ไข่ไก่ฟองใหญ่
+card_dragon_egg_name	ไข่มังกร
+card_dragon_egg_name_cracked	ไข่มังกรแตก
+card_dragon_scale_armor_description	ชุดเกราะที่ดี แต่ต้องเสียไปเท่าไหร่ล่ะ...
+card_dragon_scale_armor_name	เกราะเกล็ดมังกร
+card_euphoria_description	ความรู้สึกหรือสภาวะของความตื่นเต้นและความสุขอย่างเข้มข้น
+card_euphoria_name	ความอิ่มเอิบใจ
+card_euphoria_status_0	สร้างความอิ่มเอมใจ
+card_fiend_description	สิ่งมีชีวิตขนาดใหญ่ที่มีรูปร่างเหมือนปีศาจ
+card_fiend_name	อสูร
+card_fish_chips_description	เป็นปลาและกรอบ
+card_fish_chips_name	ปลาแผ่นทอด
+card_fish_chips_status_0	ทำปลาแผ่นทอด
+card_flour_description	ร่วน ส่วนผสมหลักในทำแป้งโด
+card_flour_mill_description	เปลี่ยนข้าวสาลีให้เป็นแป้ง
+card_flour_mill_name	โรงโม่แป้ง
+card_flour_name	แป้ง
+card_fountain_of_youth_description	ยกเลิกคำสาปแห่งความตาย
+card_fountain_of_youth_name	น้ำพุแห่งความเยาว์วัย
+card_fountain_of_youth_status_0	สร้างน้ำพุแห่งความเยาว์วัย
+card_french_fries_description	มันฝรั่งทอดกรอบ
+card_french_fries_name	มันฝรั่งทอด
+card_french_fries_status_0	ทอดเฟรนช์ฟรายส์
+card_ghoul_description	วิญญาณผีสิง
+card_ghoul_name	ปอบ
+card_grape_description	มันเป็นเพียงเบอร์รี่ที่แฟนซีนิดหน่อย
+card_grape_name	องุ่น
+card_grape_pulp_description	ส่วนผสมขององุ่น
+card_grape_pulp_name	เนื้อองุ่น
+card_grape_pulp_status_0	กระทืบองุ่น
+card_grape_vine_description	พุ่มเบอร์รี่ที่เป็นเส้นๆ
+card_grape_vine_name	เถาองุ่น
+card_grape_vine_status	เก็บเกี่ยวองุ่น
+card_greed_curse_description	กษัตริย์ผู้ละโมบปกครองแผ่นดิน ตอบสนองความต้องของเขา
+card_greed_curse_name	คำสาปแห่งความโลภ
+card_greed_recipe_description	ถวายเหรียญแท่นบูชาจะเรียกวิญญาณออกมา
+card_greed_recipe_name	โลกแห่งความโลภ
+card_greed_spirit_description	จากโลกอันไกลโพ้น ที่ซึ่งมีกษัตริย์ปกครองดินแดน
+card_greed_spirit_name	วิญญาณแห่งความโลภ
+card_happiness_curse_description	ทุกคนต้องความสุข
+card_happiness_curse_name	คำสาปแห่งความโศกเศร้า
+card_happiness_description	หน่วยของความสุข มันทำให้ชาวบ้านมีความสุข
+card_happiness_name	ความสุข
+card_happiness_recipe_description	ถวายถ่านที่แท่นบูชาจะเรียกวิญญาณออกมา
+card_happiness_recipe_name	โลกแห่งความเศร้า
+card_happiness_spirit_description	จากโลกอันไกลโพ้นที่ชาวบ้านต้องเศร้าโศก
+card_happiness_spirit_name	วิญญาณแห่งความโศกเศร้า
+card_herbal_tea_description	ทำให้คุณรู้สึกดีขึ้น
+card_herbal_tea_name	ชาสมุนไพร
+card_herbal_tea_status_0	ทำชาสมุนไพร
+card_herbal_tea_status_1	รักษาชาวบ้าน
+card_herbs_description	ใบไม้มีรสชาติ
+card_herbs_name	สมุนไพร
+card_hop_plant_status_0	รวบรวมฮอป
+card_horse_description	วัวหน้าตาแปลกๆ.
+card_horse_name	ม้า
+card_human_poop_description	มันมีกลิ่นเหม็นเป็นพิเศษ
+card_human_poop_name	อึชาวบ้าน
+card_imp_description	สิ่งมีชีวิตตัวเล็กที่น่ารังเกียจ
+card_imp_name	อิมพ์
+card_jester_description	สนุกสนานในงานปาร์ตี้
+card_jester_hat_description	ทำให้คุณดูเหมือนตัวตลก
+card_jester_hat_name	หมวกตัวตลก
+card_jester_hat_status_0	สร้างหมวกตัวตลก
+card_jester_name	ตัวตลก
+card_kitten_description	น่ารักฟรุ้งฟริ้ง
+card_kitten_name	ลูกแมว
+card_merchant_description	ขายไข่มังกรในราคา 100 เหรียญ!
+card_merchant_description_2	ขายไข่มังกรในราคา 100 เหรียญ! ยังคงต้อง [coinsNeeded] เหรียญ
+card_merchant_name	พ่อค้า
+card_museum_description	เปลี่ยนทรัพยากรให้เป็นความสุข สำหรับแต่ละทรัพยากรใหม่ที่ได้รับ
+card_museum_name	พิพิธภัณฑ์
+card_museum_status_0	สร้างพิพิธภัณฑ์
+card_naming_stone_description	ไม่ลืมอีกต่อไปว่าใครเป็นใคร!
+card_naming_stone_name	ตั้งชื่อหิน
+card_naming_stone_status_0	สร้างหินตั้งชื่อ
+card_old_cat_description	ขี้บ่นบ้างเป็นบางครั้ง
+card_old_cat_name	แมวแก่
+card_old_dog_description	ยังน่ารักอยู่เลย
+card_old_dog_name	หมาแก่
+card_old_villager_description	ชีวิตดูผ่านไปรวดเร็วในสายตาพวกเขา
+card_old_villager_name	ชาวบ้านสูงอายุ
+card_olive_description	ความคลาสสิกของชาวเมดิเตอร์เรเนียน
+card_olive_name	มะกอก
+card_olive_oil_description	น้ำมะกอกอร่อย
+card_olive_oil_name	น้ำมันมะกอก
+card_olive_oil_status_0	ทำน้ำมันมะกอก
+card_olive_pulp_description	มะกอก
+card_olive_pulp_name	เนื้อมะกอก
+card_olive_pulp_status_0	กระทืบมะกอก
+card_olive_tree_description	สามารถเติบโตได้มากถึง 3,500 ปี
+card_olive_tree_name	ต้นโอลีฟ
+card_olive_tree_status	เก็บเกี่ยวมะกอก
+card_outhouse_description	ใช้มันเพื่อกำจัดอึ
+card_outhouse_name	ห้องน้ำ
+card_outhouse_remove_poop	กำจัดอึ
+card_outhouse_status_0	สร้างห้องน้ำ
+card_oven_description	ใช้ในอบสิ่งของต่างๆ
+card_oven_name	เตาอบ
+card_painting_description	ภาพวาดของชาวบ้านชาวฝรั่งเศส
+card_painting_name	ภาพวาด
+card_painting_status_0	สร้างภาพวาด
+card_pancakes_description	กองใหญ่เชียว!
+card_pancakes_name	แพนเค้ก
+card_pancakes_status_0	ทำแพนเค้ก
+card_paper_description	ไม้เปียกหั่นเป็นชิ้นบาง ๆ
+card_paper_name	กระดาษ
+card_paper_status_0	ทำกระดาษ
+card_petting_zoo_description	สร้างความสุขให้กับสัตว์ทุกตัวที่อยู่ด้านบน
+card_petting_zoo_name	สวนสัตว์เลี้ยง
+card_petting_zoo_status_0	สร้างสวนสัตว์เลี้ยง
+card_petting_zoo_status_active	เลี้ยงสัตว์
+card_pizza_description	ใช่เลย
+card_pizza_name	พิซซ่า
+card_pizza_status_0	ทำพิซซ่า
+card_plague_mask_description	คุณไม่สามารถป่วยได้
+card_plague_mask_name	หน้ากากกันโรคระบาด
+card_plague_mask_status_0	ทำหน้ากากกันโรคระบาด
+card_poop_cant_sell	คุณไม่สามารถขายอึได้เมื่อคำสาปแห่งความตายทำงานอยู่
+card_poop_slime_description	สไลม์ทำจากอึ
+card_poop_slime_name	สไลม์อึ
+card_possessed_blade_description	ทำให้ผู้ถือครองรู้สึกไม่สบายใจ
+card_possessed_blade_name	ใบมีดที่ถูกสิง
+card_puppy_description	มันน่ารัก
+card_puppy_name	ลูกหมา
+card_rag_description	ผ้าฝ้ายที่ฉีกขาดเป็นแผ่น
+card_rag_name	เศษผ้า
+card_roasted_fish_description	สีน้ำตาล กรอบ
+card_roasted_fish_name	ปลาทอด
+card_roasted_fish_status_0	ทอดปลา
+card_roasted_meat_description	กรอบนอกนุ่มใน
+card_roasted_meat_name	เนื้อทอด
+card_roasted_meat_status_0	ทอดเนื้อ
+card_royal_archer_description	ฝึกฝนอยู่บริเวณปราสาท
+card_royal_archer_name	นักธนูแห่งราชวงศ์
+card_royal_banquet_description	อาหารที่อร่อยมากบางอย่างรวมกัน
+card_royal_banquet_name	งานเลี้ยงราชวงศ์
+card_royal_banquet_status_0	เตรียมงานพระราชพิธี
+card_royal_crown_description	ให้ความแข็งแกร่งและทำให้คุณโลภ
+card_royal_crown_name	รอยัลคราวน์
+card_royal_description	น้องนิสัยเสีย
+card_royal_description_demand_2	สั่งให้คุณหาไข่มังกรมา หาได้ค่อยกลับมา
+card_royal_guard_description	จะสละชีวิตเพื่อพระราชา
+card_royal_guard_name	ราชองครักษ์
+card_royal_mage_description	พ่อมดผู้สูงศักดิ์
+card_royal_mage_name	นักเวทย์ราชวงศ์
+card_royal_name	ราชวงศ์
+card_royal_tunic_description	ดูหรูหราในสนามรบ
+card_royal_tunic_name	เสื้อคลุมของการ์ด
+card_ruins_description	โบราณสถานแห่งหนึ่ง ต้องมีชาวบ้าน [required_count] คนในสำรวจ
+card_ruins_name	ซากปรักหักพัง
+card_ruins_status	สำรวจซากปรักหักพัง
+card_sadness_demon_description	มันถูกสร้างขึ้นจากความโศกเศร้าของชาวบ้านของคุณ
+card_sadness_demon_name	ปีศาจแห่งความโศกเศร้า
+card_scythe_description	มีประโยชน์สำหรับเพาะปลูกและกำจัดมอนสเตอร์
+card_scythe_name	เคียว
+card_scythe_status_0	ทำเคียว
+card_sewer_description	ดึงดูดอึโดยอัตโนมัติ
+card_sewer_name	ท่อระบายน้ำ
+card_sewer_status_0	สร้างท่อระบายน้ำ
+card_shaman_description	พูดคุยกับวิญญาณ
+card_shaman_name	หมอผี
+card_shaman_status	สวดมนต์
+card_spirit_status_1	ออกจากโลกวิญญาณ
+card_spring_description	เป็นแหล่งน้ำ สามารถใช้เติมขวดเปล่าได้
+card_spring_name	ฤดูใบไม้ผลิ
+card_squire_description	เขาเป็นเด็กถือโล่ให้คุณ
+card_squire_name	นายทหาร
+card_squire_tunic_description	จะกลายเป็น
+card_squire_tunic_name	เสื้อคลุมสี่เหลี่ยม
+card_squire_tunic_status_0	สร้าง เสื้อคลุมสี่เหลี่ยม
+card_stomping_vat_description	ล้างเท้าก่อน
+card_stomping_vat_name	ถังกระทืบ
+card_stomping_vat_status_0	สร้างถังกระทืบ
+card_tavern_description	เปลี่ยนอาหารให้เป็นความสุข
+card_tavern_name	โรงเตี๊ยม
+card_tavern_status_0	เสิร์ฟอาหาร
+card_teenage_villager_description	กำหนดอนาคนด้วยเส้นทางของเด็ก
+card_teenage_villager_name	หนุ่มชาวบ้าน
+card_throwing_tomatos_description	ฝูงชนไม่ชอบมัน
+card_throwing_tomatos_name	มะเขือเทศ
+card_throwing_tomatos_status_0	ทำมะเขือเทศ
+card_tomato_description	สีแดง ทรงกลม และโยนได้อย่างสนุกสนาน
+card_tomato_name	มะเขือเทศ
+card_tomato_plant_description	กินเฉพาะส่วนสีแดงเท่านั้น
+card_tomato_plant_name	ต้นมะเขือเทศ
+card_tomato_plant_status	เก็บมะเขือเทศ
+card_unhappiness_description	ทำให้ชาวบ้านเศร้า##คุณต้องความสุขเพิ่ม 1 อันสำหรับ์ดความโศกเศร้าทุกใบที่คุณมี
+card_unhappiness_name	ความโศกเศร้า
+card_university_description	สถานที่แห่งปัญญา ให้แนวคิดใหม่แก่คุณสำหรับทุก ๆ [max_count] เหรียญที่คุณมอบให้
+card_water_description	ของเหลวเปียก
+card_water_name	น้ำ
+card_water_status_0	รับน้ำ
+card_wheat_description	หญ้าสำหรับมนุษย์ แต่สวรรค์สำหรับสัตว์
+card_wheat_name	ข้าวสาลี
+card_whip_description	ระยะประชิดหรือระยะไกล? ใครจะรู้
+card_whip_name	แส้
+card_wine_description	น้ำองุ่นนี้ทำให้ฉันรู้สึกมึนๆ
+card_wine_name	ไวน์
+card_wine_status_0	ทำไวน์
+card_winter_coat_description	ความมหัศจรรย์ในฤดูหนาว
+card_winter_coat_name	เสื้อกันหนาว
+card_winter_coat_status_0	ทำเสื้อกันหนาว
+card_wishing_well_description	มันให้ความปรารถนาแก่คุณทุก ๆ [count] เหรียญ
+card_wool_dress_description	ชุดเดรสที่จะสร้างความประทับใจ
+card_wool_dress_name	ชุดแฟนซี
+card_wool_dress_status_0	ทำชุดแฟนซี
+card_wool_socks_description	พวกมันมีอุ้งเท้าแมวตัวเล็ก ๆ อยู่!
+card_wool_socks_name	ถุงเท้าสีม่วง
+card_wool_socks_status_0	ทำถุงเท้าสีม่วง
+cardtype_happiness	ความสุข
+cardtype_spirits	วิญญาณและคำสาป
+credits_cyber	สนับสนุน Mod
+cursetype_death	ความตาย
+cursetype_greed	ความโลภ
+cursetype_happiness	ความสุข
+cutscene_death_end_text_0	ฉันเห็นคุณปลดล็อคแพ็คใหม่!
+cutscene_death_end_text_1	ฉันได้ยินมาว่าแพ็กนี้มีแก้ไขคำสาปของฉัน
+cutscene_death_middle_text_0	ดูเหมือนชาวบ้านจะตายเพราะวัยชรา
+cutscene_death_middle_text_1	มันเศร้าเสมอที่เห็นมันเกิดขึ้น เขาปลอดภัยเมื่ออยู่กับฉัน
+cutscene_death_middle_text_2	อย่าลืมหาชาวบ้านใหม่ก่อนที่พวกเขาจะตายทั้งหมด
+cutscene_greed_end_text_0	ไข่มังกร? ฉันหวังว่าเขาจะพร้อมสำหรับสิ่งที่กำลังจะเกิดขึ้น
+cutscene_greed_middle_text_0	ราชวงศ์โลภผู้นี้คิดว่าเขาสามารถเรียกร้องทุกสิ่งได้...
+cutscene_greed_middle_text_1	ฉันแน่ใจว่าข้อเรียกร้องของเขาจะทำให้เขาล่มสลายในไม่ช้า
+cutscene_happiness_end_text_0	ฉันพบวิธีกำจัดคำสาป
+cutscene_happiness_end_text_1	รวม 3 ความอิ่มเอิบใจเข้ากับคำสาปแห่งความโศกเศร้า
+cutscene_happiness_end_text_2	นี่คือแนวคิดสำหรับมัน
+cutscene_happiness_middle_text_1	หากเรามีความสุขมากขึ้น เราก็อาจจะสามารถถอนคำสาปแห่งความโศกเศร้าได้
+demand_fancy_dress_start_text	ฉันจะมอบชุดนี้ให้กับคนที่สวยมาก!
+demand_fancy_dress_success_text	ชุดนี้เป็นของขวัญที่สมบูรณ์แบบ เธอชอบมันมาก! ฉันมีความคิดที่ยิ่งใหญ่ที่สุดเสมอ!
+greed_quest_demand_description_not_found	ที่ปรึกษาของผมจะแนะนำคุณเกี่ยวกับของที่ฉันต้องการ
+greed_quest_demand_failed	ทำไมไม่ทำตามที่ขอ!
+greed_quest_demand_failed_2	นี่คืออะไร? ไม่ใช่อันนี้นะ
+greed_quest_demand_failed_3	คำขอของฉันเจาะจงมาก แต่นี่ไม่ใช่นะ
+greed_quest_demand_success	ขอบคุณ. ฉันไม่รู้ว่าคุณใส่ใจฉันด้วย
+greed_quest_demand_success_2	อ่า ตรงตามที่ขอเลย...
+greed_quest_demand_success_3	เยี่ยมเลย! อันนี้แหละ 
+greed_quest_demand_title	พระราชกรณียกิจ!
+idea_altar_status_0	สร้างแท่นบูชา
+idea_death_curse_fix_description	ยกเลิกคำสาปแห่งความตาย
+idea_death_curse_fix_name	ยกเลิกคำสาปแห่งความตาย
+idea_death_curse_fix_status_0	ยกเลิกคำสาปแห่งความตาย
+idea_flour_mill_status_0	สร้างโรงโม่แป้ง
+idea_flour_status_0	บดข้าวสาลี
+idea_greed_curse_fix_description	ยกเลิกคำสาปแห่งความโลภขึ้น
+idea_greed_curse_fix_name	ยกเลิกคำสาปแห่งความโลภขึ้น
+idea_greed_curse_fix_status_0	ยกเลิกคำสาปแห่งความโลภ
+idea_growth_status_13	ปลูกข้าวสาลี
+idea_growth_status_14	ปลูกองุ่น
+idea_growth_status_15	ต้นมะกอกที่กำลังเติบโต
+idea_growth_status_16	ปลูกต้นมะเขือเทศ
+idea_growth_status_17	ต้นไม้ที่กำลังเติบโต
+idea_growth_status_18	สมุนไพรที่กำลังเติบโต
+idea_happiness_curse_fix_description	ยกเลิกคำสาปแห่งความโศกเศร้า
+idea_happiness_curse_fix_name	ยกเลิกคำสาป
+idea_happiness_curse_fix_status_0	ยกเลิกคำสาปแห่งความโศกเศร้า
+idea_happiness_description	วิธีรับความสุขที่รวดเร็วและสกปรก
+idea_happiness_name	ความสุข
+idea_happiness_result	วิธีรับความสุขที่รวดเร็วและสกปรก
+idea_happiness_status_0	ให้เหรียญ
+idea_happiness_status_1	กำลังอ่านหนังสือ
+idea_offspring_status_2	สร้างลูกแมว
+idea_oven_status_0	สร้างเตาอบ
+idea_remove_happiness	
+idea_tavern_status_0	สร้างโรงเตี๊ยม
+idea_unhappiness_status_0	ทำให้ชาวบ้านเศร้าใจ
+ideagroup_death	ความตาย
+ideagroup_greed	ความโลภ
+ideagroup_happiness	ความสุข
+label_advanced_combat	ในเกมสถิติต่อสู้: [on_off]
+label_advanced_settings	ตัวเลือกขั้นสูง
+label_age_villagers	สุขสันต์วันเกิด!
+label_altar_cutscene_help_false	ไม่สนใจพวกเขา
+label_altar_cutscene_help_spirit_false	โปรดเรียกฉันอีกครั้งเมื่อคุณสามารถช่วยฉันได้
+label_altar_cutscene_help_spirit_true	ขอบคุณ! ตามฉันมาสู่โลกของฉัน
+label_altar_cutscene_help_true	ช่วยพวกเขาออกไป
+label_altar_cutscene_text	ฉันคือ [spirit] คุณช่วยฉันในโลกของฉันได้ไหม?
+label_altar_cutscene_title	แท่นบูชาเริ่มดังก้อง..
+label_angry_villager	ชาวบ้านคนหนึ่งของคุณโกรธ!
+label_beat_curse_to_unlock	ยกเลิกคำสาปนี้ออกเพื่อเริ่มวิ่งใหม่โดยเปิดใช้งาน
+label_buy_dlc_steam	ซื้อบน Steam
+label_cardopedia_all	การ์ดทั้งหมด
+label_cardopedia_forest	ป่าทะมึนมืด
+label_cardopedia_island	เกาะ
+label_cardopedia_main	ต้นฉบับ
+label_cardopedia_modded	ม็อด
+label_cardopedia_order	สั่งซื้อและโครงสร้าง
+label_cardopedia_spirit	โลกที่ถูกสาป
+label_change_board_disabled_text	คุณไม่สามารถเปลี่ยนโลกในโลกแห่งวิญญาณได้
+label_change_board_disabled_title	ปิดใช้งานเดินทาง
+label_clicktodrag_enabled	ลากง่าย
+label_clicktodrag_tooltip	ช่วยให้คุณสามารถลากการ์ดได้ด้วยคลิกขวา #คลิกขวาหนึ่งครั้งเพื่อเริ่มลาก และคลิกขวาอีกครั้งเพื่อหยุดลาก
+label_death_intro_1	ยินดีต้อนรับสู่โลกแห่งความตาย
+label_death_intro_2	ทุกๆ สองสามเดือน ชาวบ้านของเราก็จะเติบโตขึ้น
+label_death_intro_3	แก่แล้วเราก็จากไป..
+label_death_intro_4	เรายังอาจป่วยได้หากมีอุจจาระมากเกินไป
+label_death_intro_5	คุณช่วยถอนคำสาปของเราได้ไหม?
+label_death_intro_title	ถูกสาปโดยความตาย?
+label_demand_collected	ไปได้ละ
+label_demand_collected_2	ว่าละ! ทีนี้ไปได้ละ
+label_demand_complete_start	ถึงเวลาเก็บส่วย! ฉันหวังว่าคุณจะมีครบนะ!
+label_enable_curse_unknown	คำสาปแห่ง ???: ปิด
+label_enable_death_curse	คำสาปแห่งความตาย: [on_off]
+label_enable_greed_curse	คำสาปแห่งความโลภ: [on_off]
+label_enable_happiness_curse	คำสาปแห่งความเศร้า: [on_off]
+label_enabled_curses	เปิดใช้งานคำสาปแล้ว
+label_everyone_angry	ทั้งหมู่บ้านของคุณโกรธ!
+label_everyone_spirit_world_dead	ทุกคนในโลกวิญญาณเสียชีวิต
+label_everyone_spirit_world_dead_text	กลับมาที่แท่นบูชา
+label_everyone_spirit_world_dead_text_retry	คุณสามารถกลับมาเยี่ยมชมโลกแห่งวิญญาณนี้ได้โดยใช้แท่นบูชา
+label_final_demand_end_text	ฉันค่อนข้างสงสัย ว่าคงเอาไข่มังกรมาให้ฉันไม่ได้ แต่ดูนี่สิ!
+label_final_demand_end_text_2	*รอยแตกเริ่มปรากฏขึ้นในเปลือก*
+label_final_demand_end_text_3	นี่อะไรน่ะ? รอยแตกในไข่มังกรของฉันเหรอ? หาอันใหม่ให้ฉันเดี๋ยวนี้!
+label_final_demand_end_text_4	ไข่แตกอีกแล้ว...
+label_final_demand_end_text_5	โอ้ไม่นะ...
+label_final_demand_end_text_6	ไข่แตก!
+label_final_demand_end_text_7	มันเป็นมังกร!
+label_final_demand_end_text_8	ด้วยแกว่งครั้งใหญ่เพียงครั้งเดียว มังกรก็โค่นราชบัลลังก์ออกไปได้
+label_final_demand_merchant	พ่อค้าคนหนึ่งปรากฏตัวขึ้น
+label_final_demand_text	มีครบทุกอย่างแต่ยังไม่พอ...
+label_final_demand_text_2	ฉันต้องอาหาร ความบันเทิง และของมีค่ามากขึ้น!
+label_final_demand_text_3	เพื่อนรักของฉันคนหนึ่งได้รับไข่ฟีนิกซ์เป็นของขวัญวันเกิด... ฉันอยากได้สิ่งที่ดีกว่านี้!
+label_final_demand_text_4	มีพ่อค้าคนหนึ่งอยู่ในเมือง และเขากำลังขายไข่มังกร! เอามันมาให้ฉัน!
+label_forest_update	ป่าแห่งความทะมึนมืด
+label_fountain_text	น้ำพุช่วยป้องกันไม่ให้ชาวบ้านของคุณแก่ชรา
+label_fountain_title	น้ำพุแห่งความเยาว์วัย
+label_giving_happiness	มอบความสุข...
+label_greed_demand_failed_fight	ฉันจะต้องสอนบทเรียนให้แกหน่อยนะ..... ทหาร!!
+label_greed_demand_failed_first_time	นี่เป็นความผิดครั้งแรกของแก ดังนั้นฉันจะปล่อยไป อย่าให้เกิดขึ้นอีก!
+label_greed_intro_1	ยินดีต้อนรับสู่โลกแห่งความโลภ
+label_greed_intro_2	นี่คือราชวงศ์โลภ...
+label_greed_intro_3	เริ่มจันทร์หน้าเขาจะเรียกร้องทุกสิ่งที่ใจปรารถนา
+label_greed_intro_4	หากคุณไม่รับใช้ราชวงศ์ เขาจะส่งราชองครักษ์ออกไป
+label_greed_intro_5	ช่วยฉันกำจัดเขาเพื่อถอนคำสาปของเรา!
+label_greed_intro_title	โลกแห่งความโลภ
+label_greed_lift_curse	โชคดีที่มังกรไม่กินมงกุฎ
+label_greed_lift_curse_2	มงกุฎราชวงศ์ คือสิ่งของที่มีค่าที่สุดในโลก...
+label_greed_lift_curse_3	อย่างไรก็ตาม คุณไม่สามารถถอนคำสาปได้หากไม่มี มงกุฎราชวงศ์..
+label_greed_lift_curse_kill_royal	ว้าว คุณสามารถสังหารราชวงศ์ ได้สำเร็จ และเขาก็ทิ้งมงกุฎของเขาลง!
+label_greed_new_villager	แกทำงานช้าเกินไปสำหรับความชอบของฉัน...
+label_greed_new_villager_2	นี่คือความช่วยเหลือเพิ่มเติม... ออกไปได้แล้ว!
+label_greed_outro_wear_crown	แกไม่สามารถสวมมงกุฎได้ ฉันไม่อนุญาต
+label_happiness_infobox	ในตอนสิ้นจันทรา คุณจะต้องมี [required_happiness_count] [happinessicon] เพื่อให้ชาวบ้านของคุณมีความสุข
+label_happiness_infobox_warning	รับ [happinessicon] เพื่อที่ปีศาจของพวกเขาจะไม่ปรากฏ!
+label_happiness_intro_1	ยินดีต้อนรับสู่โลกแห่งความโศกเศร้า
+label_happiness_intro_2	ทุกเดือนชาวบ้านของเราต้องความสุข
+label_happiness_intro_3	กระทำที่แตกต่างกันจะทำให้พวกเขามีความสุข
+label_happiness_intro_4	หากชาวบ้านไม่ได้รับความสุขเพียงพอ ปีศาจของพวกเขาก็จะปรากฏขึ้น
+label_happiness_intro_5	คุณช่วยถอนคำสาปของเราได้ไหม?
+label_happiness_intro_title	โลกแห่งความเศร้า
+label_happiness_return_0	คุณต้องกลับแผ่นดินใหญ่หรือไม่?
+label_happiness_warning	คุณต้องมี [count] ความสุขก่อนสิ้นจันทราหน้า!
+label_island_update	เกาะ
+label_its_the_spirit	มันคือวิญญาณ!
+label_magic_lore	ถ่ายทอดพลังที่ยิ่งใหญ่กว่า
+label_magic_title	โจมตีด้วยเวทย์มนตร์
+label_main_game	ต้นตอ
+label_melee_lore	ใกล้ชิดและเป็นส่วนตัว
+label_melee_title	โจมตีระยะประชิด
+label_menu_spirit_title	โลกที่ถูกสาป
+label_menu_spirit_title_locked	Cursed Worlds ออกมาแล้ว!
+label_missing_cards_text	ไม่สามารถโหลดการ์ดต่อไปนี้ในรันได้ ซึ่งอาจเป็นเพราะม็อดหายไป: [missing].##คุณยังต้องรันต่อหรือไม่? การ์ดบางใบอาจหายไป
+label_missing_cards_title	การ์ดที่หายไป
+label_mod_update_type	การ์ดดัดแปลง
+label_mods	ม็อด
+label_mods_enable_title	สลับ Mods
+label_name_villager_text	อย่ายึดติดให้มากนัก!
+label_new_villager	ชาวบ้านคนใหม่
+label_new_villager_death	ชาวบ้านผู้โดดเดี่ยวตัดสินใจตั้งถิ่นฐานในหมู่บ้านของคุณ
+label_new_villager_happiness	ชาวบ้านคนใหม่ได้ยินเกี่ยวกับหมู่บ้านอันแสนสุขของคุณ จึงตัดสินใจตั้งถิ่นฐานที่นี่!
+label_not_everyone_happy	ชาวบ้านบางคนได้รับความสุขไม่เพียงพอ...
+label_open_workshop	เปิดประชุมเชิงปฏิบัติ
+label_random_name	สุ่ม
+label_ranged_lore	โจมตีจากระยะไกล
+label_ranged_title	โจมตีระยะไกล
+label_return_from_spirit_world_text	คุณแน่ใจหรือว่าต้องออกจาก Spirit World นี้? โลกจะรีเซ็ตเมื่อคุณจากไป
+label_return_from_spirit_world_title	กำลังกลับ...
+label_sadness_demon_text	คุณมีความโศกเศร้ามากเกินไป!
+label_sadness_demon_title	ปีศาจแห่งความโศกเศร้าก็ปรากฏตัวขึ้น
+label_screenshake_enabled	เปิดใช้งานสั่นหน้าจอแล้ว
+label_shaman_appeared	ชาแมนปรากฏตัวออกมาจากที่ไหนเลย
+label_shaman_intro	มีบางอย่างรู้สึกผิดปกติ
+label_shaman_leaving_text	หมอผีได้บอกทุกสิ่งที่เขารู้แก่คุณแล้ว และจะจากโลกนี้ไป
+label_shaman_leaving_title	ชาแมนกำลังจะไปแล้ว
+label_spirit_dlc_not_installed_text	เข้าถึงเนื้อหาใหม่โดยซื้อ Cursed Worlds DLC
+label_spirit_dlc_not_installed_title	DLC Cursed Worlds
+label_spirit_outro_1	ขอบคุณที่ช่วยเรา
+label_spirit_outro_2	ตอนนี้คุณสามารถกลับสู่โลกเก่าของคุณได้แล้ว
+label_spirit_outro_3	วางทุกสิ่งที่คุณต้องนำกลับมาไว้บนฉัน...
+label_spirit_outro_4	...และฉันจะพาคุณกลับ
+label_spirit_outro_choice_0	ดำเนินต่อที่นี่
+label_spirit_outro_choice_1	กลับสู่แผ่นดินใหญ่
+label_spirit_update	อัพเดทวิญญาณ
+label_time_infobox	เวลาปัจจุบัน จันทราที่นี้เหลือเวลา [time_left] ##ใช้ [action_time_pause] เพื่อหยุดชั่วคราว หรือใช้ [action_time_toggle] เพื่อสลับระหว่างความเร็วของเกม
+label_try_attack_royal_description	ระวัง...
+label_try_attack_royal_description_4	เขาจะเป็นมิตร ไม่ตลอดไป...
+label_try_attack_royal_description_8	คำเตือนครั้งสุดท้าย!
+label_try_attack_royal_title	พระราชาโกรธา
+label_update_text_spirit	ขอขอบคุณที่ซื้อ Cursed Worlds DLC!##เดินทางสู่โลกที่แตกต่างกันสามโลกที่ชาวบ้านถูกคำสาปหลอกหลอน! สร้างหมู่บ้านของพวกเขา จากนั้นใช้การ์ดและซองการ์ดใหม่เพื่อกำจัดคำสาป!##<i>เนื้อหา DLC สามารถเข้าถึงได้หลังจากต่อสู้กับบอสครั้งแรกของเกมสำเร็จแล้ว</i>
+label_update_text_spirit_locked	เราเพิ่งเปิดตัว Stacklands DLC ตัวแรก! เดินทางไปยังสามโลกที่แตกต่างกัน ที่ซึ่งชาวบ้านถูกหลอกหลอนด้วยคำสาปอันซับซ้อน! สร้างหมู่บ้านของพวกเขา จากนั้นใช้์ดและซองการ์ดใหม่เพื่อขจัดคำสาป!##•การ์ดใหม่มากกว่า 130 ใบ#• ภารกิจใหม่มากกว่า 50 ภารกิจ#• ซองการ์ดใหม่ 15 ซอง#• เวลาเล่น 3-5 ชั่วโมง
+label_update_title_spirit	The Cursed Worlds
+label_villager_age_birthday	ชาวบ้านบางคนก็มีอายุมากขึ้น
+label_villager_age_description	<หนึ่ง>อายุ: 1 จันทรา<other>อายุ: [age] จันทรา
+label_villager_food_poisoning	[villager] โดนอาหารเป็นพิษ...
+label_villager_old	[villager] แก่
+label_villager_old_age_death	[villager] เสียชีวิตด้วยวัยชรา
+label_villager_sick	[villager] ป่วย...
+label_villager_young	[villager] หนุ่ม
+label_wow	ว้าว!
+pack_death_animals_text	สัตว์มีชีวิต
+pack_death_basic_text	ชีวิตประจำวัน
+pack_death_ideas_1_text	ภูมิปัญญาแห่งชีวิต
+pack_death_ideas_2_text	ความคิดลึก
+pack_death_intro_text	ชีวิตนั้นสั้น
+pack_death_locations_text	ตอนจบ
+pack_greed_basic1_text	ความโลภบริสุทธิ์
+pack_greed_food_creatures_text	สัตว์ประเสริฐ
+pack_greed_ideas1_text	นักประดิษฐ์แห่งราชวงศ์
+pack_greed_ideas2_text	คุมกำเนิดแบบคอร์ทยาร์ด
+pack_greed_intro_text	จุดเริ่มต้นแห่งโลภ
+pack_greed_luxuries_text	ราชวงศ์หรูหรา
+pack_happiness_creatures_text	สัตว์มีความสุข
+pack_happiness_food_text	อาหารแห่งจิตวิญญาณ
+pack_happiness_ideas1_text	ความคิดที่เป็นสุข
+pack_happiness_ideas2_text	มีความสุขตลอดไป
+pack_happiness_intro_text	มีความสุขเริ่มต้น
+pack_happiness1_text	ชีวิตที่เรียบง่าย
+quest_3_succesfull_demands_text	สำเร็จข้อเรียกร้อง 3 ข้อ
+quest_5_succesfull_demands_text	สำเร็จข้อเรียกร้อง 5 ข้อ
+quest_8_succesfull_demands_text	สำเร็จข้อเรียกร้อง 8 ข้อ
+quest_create_altar_text	พูดคุยกับหมอผีเพื่อรับความรู้ลับ
+quest_death_befriend_cat_text	เป็นเพื่อนกับแมว
+quest_death_breed_cow_text	ผสมพันธุ์วัว
+quest_death_build_lumbercamp_text	สร้างค่ายไม้
+quest_death_build_outhouse_text	สร้างบ้านนอก
+quest_death_create_fountain_of_youth_text	สร้างน้ำพุแห่งความเยาว์วัย
+quest_death_cure_sick_villager_text	รักษาชาวบ้านที่ป่วย
+quest_death_explore_ruins_text	สำรวจซากปรักหักพัง
+quest_death_find_cure_text	หาวิธีที่จะถอนคำสาป
+quest_death_find_fix_text	ยกเลิกคำสาปแห่งความตาย
+quest_death_have_3_cows_text	มีวัว 3 ตัว
+quest_death_have_3_poop_text	มีอึ 3 อัน
+quest_death_make_cheese_text	ทำชีส
+quest_death_name_villager_text	ตั้งชื่อชาวบ้าน
+quest_death_second_villager_text	รับชาวบ้านคนที่สอง
+quest_death_third_villager_text	เลี้ยงลูกก่อนที่จะสายเกินไป...
+quest_death_unlock_packs_text	ปลดล็อคแพ็คทั้งหมด
+quest_death_villager_old_age_dead_text	ให้ชาวบ้านตายด้วยวัยชรา
+quest_death_villager_old_text	มีชาวบ้านเก่า
+quest_enter_death_world_text	เยี่ยมชมโลกแห่งความตาย
+quest_enter_greed_world_text	เยี่ยมชมโลกแห่งความโลภ
+quest_enter_happiness_world_text	เยี่ยมชมโลกแห่งความโศกเศร้า
+quest_fight_royal_guard_text	ต่อสู้กับเหล่าทหารองครักษ์
+quest_find_death_world_text	หาวิธีอัญเชิญวิญญาณแห่งความตาย
+quest_find_greed_world_text	หาวิธีอัญเชิญวิญญาณแห่งความโลภ
+quest_find_happiness_world_text	หาวิธีอัญเชิญวิญญาณแห่งความโศกเศร้า
+quest_first_demand_text	รอรับข้อเรียกร้องแรกของราชวงศ์
+quest_get_grape_text	เก็บเกี่ยวองุ่นครั้งแรกของคุณ
+quest_greed_brickyard_text	สร้างโรงอิฐ
+quest_greed_find_fix_text	ยกเลิกคำสาปแห่งความโลภ
+quest_greed_garden_text	สร้างสวน
+quest_greed_lumbercamp_text	สร้างค่ายไม้
+quest_greed_mine_text	สร้างเหมือง
+quest_greed_oak_barrel_text	ทำถังหมัก
+quest_greed_olive_oil_text	ทำน้ำมันมะกอก
+quest_greed_quarry_text	สร้างเหมืองหิน
+quest_greed_roasted_meat_text	ทอดเนื้อสัตว์
+quest_greed_sawmill_text	สร้างโรงเลื่อย
+quest_greed_smelter_text	สร้างโรงถลุง
+quest_greed_stomping_vat_text	สร้างถังกระทืบ
+quest_greed_wine_text	ทำไวน์จากองุ่น
+quest_greed_wool_text	หาขนแกะจากแกะ
+quest_happiness_admire_a_coin_text	ให้เหรียญ
+quest_happiness_all_packs_text	ปลดล็อคแพ็คความสุขทั้งหมด
+quest_happiness_bake_bread_text	อบขนมปัง
+quest_happiness_bake_pizza_text	ทำพิซซ่า
+quest_happiness_build_charity_text	สร้างบุญ
+quest_happiness_build_garden_text	สร้างสวน
+quest_happiness_build_museum_text	สร้างพิพิธภัณฑ์
+quest_happiness_build_tavern_text	สร้างโรงเตี๊ยม
+quest_happiness_create_flour_text	สร้างแป้ง
+quest_happiness_find_fix_text	ยกคำสาปแห่งความโศกเศร้า
+quest_happiness_get_2_happiness_text	มีความสุข 2
+quest_happiness_have_1_unhappiness_text	มี 1 ความโศกเศร้า
+quest_happiness_have_10_unhappiness_text	มี 10 ความโศกเศร้า
+quest_happiness_have_5_unhappiness_text	มีความทุกข์ 5
+quest_happiness_make_dough_text	ทำแป้ง
+quest_open_death_intro_pack_text	เปิดแพ็ค
+quest_open_happiness_intro_pack_text	เปิดแพ็ค
+quest_open_pack_text	เปิดแพ็คแรกของคุณ
+questgroup_death_mainquest	ชีวิตและความตาย
+questgroup_death_misc	ความตายอื่นๆ
+questgroup_death_starter	โลกแห่งความตาย
+questgroup_discover_spirits	พบกับชาแมน
+questgroup_greed_mainquest	ให้ฉันทุกอย่าง!
+questgroup_greed_misc	สิ่งของที่เหมาะกับราชวงศ์
+questgroup_greed_starter	โลกแห่งความโลภ
+questgroup_greed_thriving	อาณาจักรที่คู่ควร
+questgroup_happiness_collecting	สิ่งที่สนุกสนาน
+questgroup_happiness_cooking	อาหารที่ดี
+questgroup_happiness_mainquest	ทำให้พวกเขามีความสุข
+questgroup_happiness_starter	โลกแห่งความเศร้า
+questgroup_happiness_unhappy	เศร้ามาก
+specialhit_anxious_long	โอกาส [chance]% ที่จะทำให้ [target] วิตกกังวล
+statuseffect_angry_description	ชาวบ้านที่โกรธแค้นจะต่อสู้กับชาวบ้านคนอื่น
+statuseffect_angry_lore	เศร้ามานานเกินไปแล้ว
+statuseffect_angry_name	โกรธ
+statuseffect_anxious_description	ทำให้ความเร็วในทำงานลดลงมาก
+statuseffect_anxious_lore	พวกเขารู้สึกไม่สบาย
+statuseffect_anxious_name	วิตกกังวล
+statuseffect_demand_description	ต้องการ์ดใหม่ทุกๆ สองสามจันทราที่
+statuseffect_demand_lore	ต้องมากขึ้นเสมอ
+statuseffect_demand_name	โลภ
+statuseffect_sick_description	ทำความเสียหาย [damage] ทุก ๆ [time]
+statuseffect_sick_lore	พวกเขารู้สึกไม่สบาย.. มีอึอยู่เต็มไปหมด!
+statuseffect_sick_name	ป่วย
+label_shaman_intro_demon	คุณเอาชนะปีศาจได้ และได้แนวคิดเรื่องเรือพาย
+label_shaman_intro_island	หากคุณต้องพัฒนาหมู่บ้านของคุณเพิ่มเติม คุณสามารถเยี่ยมชมเกาะได้
+label_beta_thanks	ขอบคุณ!
+label_beta_text	ขอขอบคุณที่ช่วยเราทดสอบ Cursed Worlds DLC!##หากคุณต้องกระโจนเข้าสู่เนื้อหาใหม่ คุณสามารถเลือก Continue Run และเริ่มหลังจากที่ปีศาจพ่ายแพ้แล้ว คุณยังสามารถเริ่มวิ่งครั้งใหม่ได้โดยเลือกเริ่มวิ่งใหม่##หากคุณต้องใช้บันทึกเก่าต่อไป ให้คัดลอกไปที่:#[saveDirectory]###ขอให้สนุก! หากคุณประสบปัญหาใดๆ โปรดแจ้งให้เราทราบใน Stacklands Playtesters Discord!
+label_shaman_intro_cursed	หากคุณต้องเรียนรู้เพิ่มเติมเกี่ยวกับไปเยือน Cursed Worlds คุณสามารถพูดคุยกับฉันได้
+label_shaman_intro_title	ชาแมน
+card_cursed_wand_name	ไม้กายสิทธิ์ต้องสาป
+card_cursed_wand_description	มันใช้เวทย์มนตร์ดำ
+label_demand_coins_text	ฉันอยากซื้อของน่ารักๆ! รับ [amount] เหรียญให้ฉันก่อนสิ้นเดือน [monthFinished]
+label_demand_garden_text	อาหารเรากำลังเหลือน้อยแล้ว และฉันต้องให้คนรับใช้ช่วยทำอาหารเพิ่ม สร้างสวนให้ฉันก่อนสิ้นเดือน [monthFinished]
+label_demand_olives_text	อยากกินของที่...แปลกใหม่ เอามะกอกมาให้ฉันก่อนสิ้นเดือน [monthFinished]
+label_demand_beer_text	ฉันจะมีแขกมาเยี่ยมตอนสิ้นเดือน [monthFinished] รับเบียร์ [amount] ให้ฉันก่อนหน้านั้น
+label_demand_fancy_dress_text	ฉันอยากจะสร้างความประทับใจให้กับผู้หญิงที่ฉันชื่นชอบ ขอชุดแฟนซีก่อนสิ้นเดือน [monthFinished]
+label_demand_royal_banquet_text	อีกไม่กี่เดือนก็จะถึงวันเกิดของฉันแล้ว และฉันต้องฉลองใหญ่! รับจัดเลี้ยงพระราชทานก่อนสิ้นเดือน [monthFinished]
+label_demand_wool_socks_text	เท้าของฉันเย็น! ไปซื้อถุงเท้าสีม่วงให้ฉันก่อนสิ้นเดือน [monthFinished]
+label_demand_wine_text	ห้องเก็บไวน์ว่างเปล่า! เอาไวน์มาให้ฉัน 2 ขวดก่อนสิ้นเดือน [monthFinished]
+label_demand_painting_text	บ้านของฉันไม่หรูหราพอ รับภาพวาดให้ฉันก่อนสิ้นเดือน[monthFinished]
+label_missing_cards_more_text	และเพิ่มอีก [amount] ชิ้น
+label_animal_die	สัตว์บางชนิดก็ตายไป
+specialhit_sick_long	โอกาส [chance]% ที่จะทำให้ [target] ป่วย
+card_well_name	บ่อน้ำ
+card_well_description	แหล่งน้ำอันไม่มีที่สิ้นสุด
+card_well_status_0	สร้างบ่อน้ำ
+card_well_status_1	รับน้ำ
+label_disable_paused_text	กะพริบปุ่ม "หยุดชั่วคราว": [เปิด_ปิด]
+label_placeholder_search	ค้นหา
+label_conflict_very_effective	มีประสิทธิภาพมาก
+cutscene_happiness_food_text_0	คุณขายอาหารบางอย่าง...
+cutscene_happiness_food_text_1	ความโศกเศร้าจะปรากฏขึ้นหากคุณขายอาหารที่ชาวบ้านกินได้
+label_altar_cutscene_mainland	คุณได้เสร็จสิ้นโลกวิญญาณนี้แล้ว คุณต้องรีสตาร์ทโลกวิญญาณหรือเรียกคำสาปมาที่นี่หรือไม่?
+label_altar_run_board	อัญเชิญ [คำสาป]
+label_altar_run_redo	รีสตาร์ทโลกวิญญาณ
+board_island_name	เกาะ
+board_main_name	แผ่นดินใหญ่
+board_forest_name	ป่า
+board_greed_name	ความโลภ
+board_death_name	ความตาย
+board_happiness_name	ความสุข
+label_altar_cutscene_good_luck	คุณเรียกคำสาปออกมา โชคดีนะ!
+cutscene_happiness_middle_text_0	คุณทำหน้าที่ได้ดีมากในทำให้หมู่บ้านมีความสุข เราอาจสามารถยกคำเลิกสาปได้หากคุณสะสมเพิ่ม!
+label_name_villager_title	ตั้งชื่อการ์ดใบนี้
+credits_Tumult	Cursed Worlds - เอฟเฟกต์เสียง
+label_spirit_outro_0_greed	คุณถอนคำสาปแห่งความโลภแล้ว!
+label_spirit_outro_0_death	คุณถอนคำสาปแห่งความตายแล้ว!
+label_spirit_outro_0_happiness	คุณถอนคำสาปแห่งความโศกเศร้าแล้ว!
+card_sad_event_description	สร้างความโศกเศร้า 1 ครั้งต่อชาวบ้าน 2 คน
+card_sad_event_name	เหตุณ์เศร้า
+label_sad_event_appeared	มีเรื่องน่าเศร้าเกิดขึ้น!
+label_greed_demand_failed_fight_peaceful	ฉันจะต้องสอนบทเรียนให้แก... ฉันจะเอาเหรียญของแกไป!!
+label_shaman_intro_peaceful	คุณรวมวิหารและถ้วยทองคำเข้าด้วยกัน จึงมีไอเดียสำหรับเรือพาย
+card_archer_name_young	นักธนูหนุ่ม
+card_archer_name_old	นักธนูเก่าแก่
+card_builder_name_young	หนุ่มก่อสร้าง
+card_builder_name_old	ช่างก่อสร้างเก่าแก่
+card_lumberjack_name_young	หนุ่มคนตัดไม้
+card_lumberjack_name_old	คนตัดไม้เก่าแก่
+card_mage_name_young	จอมเวทย์หนุ่ม
+card_mage_name_old	เฒ่าเมจ
+card_miner_name_young	หนุ่มนักขุด
+card_miner_name_old	คนงานเหมืองเก่าแก่
+card_ninja_name_young	นินจาหนุ่ม
+card_ninja_name_old	นินจาเฒ่า
+card_warrior_name_young	นักรบหนุ่ม
+card_warrior_name_old	นักรบเก่าแก่
+card_wizard_name_young	พ่อมดหนุ่ม
+card_wizard_name_old	พ่อมดเก่าแก่
+card_explorer_name_young	นักสำรวจรุ่นเยาว์
+card_explorer_name_old	นักสำรวจเก่าแก่
+card_militia_name_young	หนุ่มอาสา
+card_militia_name_old	ทหารอาสาเก่าแก่
+card_swordsman_name_young	นักดาบหนุ่ม
+card_swordsman_name_old	นักดาบเก่าแก่
+card_fisher_name_young	หนุ่มนักตกปลา
+card_fisher_name_old	นักตกปลาเก่าแก่
+card_friendly_pirate_name_young	โจรสลัดหนุ่มผู้เป็นมิตร
+card_friendly_pirate_name_old	โจรสลัดผู้เป็นมิตรผู้เฒ่า
+card_trained_monkey_name_young	ลิงฝึกหัดหนุ่ม
+card_trained_monkey_name_old	ลิงฝึกหัดเก่าแก่
+card_jester_name_young	หนุ่มตัวตลก
+card_jester_name_old	ตัวตลกเก่าแก่
+label_youtube_dlc_title	Cursed Worlds - เข้าถึงได้ก่อน
+label_youtube_dlc_text	นี่เป็นโครงสร้างเข้าถึงล่วงหน้าแบบพิเศษของ Stacklands Cursed Worlds DLC!## คุณสามารถเข้าถึงเนื้อหาใหม่ได้อย่างรวดเร็วโดยใช้เกมบันทึกที่สร้างไว้ล่วงหน้าของเรา เกมบันทึกนี้เริ่มต้นหลังจากเอาชนะบอสตัวแรกของเกมได้##และยังสามารถดำเนินต่อได้ตามปกติจากที่บันทึกปัจจุบันของคุณ##หากคุณต้องเริ่มต้นใหม่ ให้ล้างข้อมูลบันทึกของคุณจากเมนูตั้งค่า
+label_load_run	ใช้เกมบันทึกที่สร้างไว้ล่วงหน้า
+label_exit	ดำเนินไปตามปกติ
+card_chicken_name_old	ไก่แก่
+card_cow_name_old	วัวเฒ่า
+card_crab_name_old	ปูแก่
+card_horse_name_old	ม้าแก่
+card_monkey_name_old	ลิงเฒ่า
+card_parrot_name_old	นกแก้วแก่
+card_rabbit_name_old	กระต่ายเฒ่า
+card_sheep_name_old	แกะแก่
+cutscene_death_middle_text_3	คุณไม่ได้รับ Villager ใหม่ทันเวลา...
+cutscene_death_middle_text_4	น่าเสียดาย นั่นหมายความว่าหมู่บ้านแห่งนี้ถึงวาระที่จะต้องล่มสลาย..
+label_greed_given	[given] ให้
+credits_betatesting	ทดสอบเบต้า
+quest_happiness_read_book_text	อ่านหนังสือ
+label_music	ดนตรี
+label_click_this_pack	เปิดแพ็กนี้เพื่อรับการ์ด!
+card_coin_chest_description_long	หีบที่สามารถเก็บเหรียญได้ โต้ตอบเพื่อลบเหรียญ ประกอบด้วย [count]/[max_count][goldicon]
+card_shell_chest_description_long	หีบที่สามารถเก็บเปลือกหอยได้ โต้ตอบเพื่อลบ Shells ประกอบด้วย [count]/[max_count][shellicon]
+label_toggle_inventory	โต้ตอบเพื่อสลับสินค้าคงคลัง
+label_magic_description	เวทมนตร์นั้นแข็งแกร่งต่อโจมตีระยะไกล แต่อ่อนแอต่อโจมตีระยะประชิด
+label_melee_description	โจมตีระยะประชิดนั้นแข็งแกร่งต่อเวทย์มนตร์ แต่อ่อนแอต่อโจมตีระยะไกล
+label_ranged_description	โจมตีระยะไกลนั้นแข็งแกร่งต่อโจมตีระยะประชิด แต่อ่อนแอต่อเวทย์มนตร์
+label_different_mods	ไฟล์บันทึกนี้ใช้ม็อดที่แตกต่างจากที่โหลดไว้ในปัจจุบัน ต้องรีสตาร์ทเกมจึงจะรีโหลดม็อดได้ทั้งหมด
+label_debug_need_villagers	ต้องการ ชาวบ้าน: [on_off]
+label_restart_required	จำเป็นต้องรีสตาร์ท
+label_restart	เริ่มต้นใหม่
